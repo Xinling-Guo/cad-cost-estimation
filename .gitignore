@@ -1,8 +1,22 @@
-.venv/
-.env
+# Python
 __pycache__/
-.pytest_cache/
-*.pyc
-logs/
-data/raw/
-data/processed/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+
+# 环境与密钥
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+
+# 系统
+.DS_Store
