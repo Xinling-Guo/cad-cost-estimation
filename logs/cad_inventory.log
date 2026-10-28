@@ -1,0 +1,21 @@
+2026-10-14 20:51:27,557 INFO cad_inventory.pipeline Inspecting CMY1000A-图档179张.dwg
+2026-10-14 20:51:27,622 WARNING cad_inventory.pipeline CMY1000A-图档179张.dwg: 未安装 ODAFileConverter；安装 Linux 转换器或从 Windows 导出 DXF 后重新运行。
+2026-10-14 20:51:27,622 INFO cad_inventory.pipeline Inspecting smx0100-m26a-a/smx0100-m22a-a.dwg
+2026-10-14 20:51:27,694 WARNING cad_inventory.pipeline smx0100-m26a-a/smx0100-m22a-a.dwg: 未安装 ODAFileConverter；安装 Linux 转换器或从 Windows 导出 DXF 后重新运行。
+2026-10-14 20:51:27,694 INFO cad_inventory.pipeline Inspecting smx0100-m26a-a/smx0100-m22a-a.stp
+2026-10-14 20:51:27,698 INFO cad_inventory.pipeline Inspecting smx0100-m26a-a/smx0100-m22b-a.dwg
+2026-10-14 20:51:27,755 WARNING cad_inventory.pipeline smx0100-m26a-a/smx0100-m22b-a.dwg: 未安装 ODAFileConverter；安装 Linux 转换器或从 Windows 导出 DXF 后重新运行。
+2026-10-14 20:51:27,756 INFO cad_inventory.pipeline Inspecting smx0100-m26a-a/smx0100-m22b-a.stp
+2026-10-14 20:51:27,757 INFO cad_inventory.pipeline Inspecting smx0100-m26a-a/smx0100-m24a-a.dwg
+2026-10-14 20:51:27,816 WARNING cad_inventory.pipeline smx0100-m26a-a/smx0100-m24a-a.dwg: 未安装 ODAFileConverter；安装 Linux 转换器或从 Windows 导出 DXF 后重新运行。
+2026-10-14 20:51:27,816 INFO cad_inventory.pipeline Inspecting smx0100-m26a-a/smx0100-m24a-a.stp
+2026-10-14 20:51:27,818 INFO cad_inventory.pipeline Inspecting smx0100-m26a-a/smx0100-m24b-a.dwg
+2026-10-14 20:51:27,881 WARNING cad_inventory.pipeline smx0100-m26a-a/smx0100-m24b-a.dwg: 未安装 ODAFileConverter；安装 Linux 转换器或从 Windows 导出 DXF 后重新运行。
+2026-10-14 20:51:27,881 INFO cad_inventory.pipeline Inspecting smx0100-m26a-a/smx0100-m24b-a.stp
+2026-10-14 20:51:27,884 INFO cad_inventory.pipeline Inspecting smx0100-m26a-a/smx0100-m25a-a.dwg
+2026-10-14 20:51:27,943 WARNING cad_inventory.pipeline smx0100-m26a-a/smx0100-m25a-a.dwg: 未安装 ODAFileConverter；安装 Linux 转换器或从 Windows 导出 DXF 后重新运行。
+2026-10-14 20:51:27,943 INFO cad_inventory.pipeline Inspecting smx0100-m26a-a/smx0100-m25a-a.stp
+2026-10-14 20:51:27,945 INFO cad_inventory.pipeline Inspecting smx0100-m26a-a/smx0100-m26a-a.dwg
+2026-10-14 20:51:28,001 WARNING cad_inventory.pipeline smx0100-m26a-a/smx0100-m26a-a.dwg: 未安装 ODAFileConverter；安装 Linux 转换器或从 Windows 导出 DXF 后重新运行。
+2026-10-14 20:51:28,001 INFO cad_inventory.pipeline Inspecting smx0100-m26a-a/smx0100-m26a-a.stp
+2026-10-14 20:51:28,005 INFO cad_inventory.pipeline Inventory saved: /home/gxl/code/cad-cost-estimation/data/processed/cad_inventory.json; summary={'total_files': 13, 'total_bytes': 2779148, 'file_type_counts': {'dwg': 7, 'step': 6}, 'status_counts': {'blocked': 7, 'inspected': 6}, 'files_with_errors': 7}

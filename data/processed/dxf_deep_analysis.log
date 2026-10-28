@@ -1,0 +1,105 @@
+2026-10-14 21:21:09,707 INFO cad_inventory.deep_pipeline Reading CMY1000A-图档179张.dxf
+2026-10-14 21:21:20,557 INFO cad_inventory.deep_pipeline Extracted CMY1000A-图档179张.dxf: {'dxf_version': 'AC1032', 'entity_total': 15969, 'entity_count_scope': 'top-level model + paperspace, excluding attached attributes and block contents', 'entity_database_total': 52306, 'layer_count': 25, 'layout_count': 2, 'paper_layout_count': 1, 'block_count': 3186, 'block_count_definition': 'block definitions, including anonymous dimension/table/layout blocks', 'insert_count': 1340, 'units_code': 4, 'measurement_system': 1}
+2026-10-14 21:21:20,587 INFO cad_inventory.deep_pipeline Reading smx0100-m26a-a-DXF/smx0100-m22a-a.dxf
+2026-10-14 21:21:20,692 ERROR cad_inventory.deep_pipeline Failed smx0100-m26a-a-DXF/smx0100-m22a-a.dxf
+Traceback (most recent call last):
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/deep_pipeline.py", line 144, in analyze_files
+    item['analysis'] = analyze_document(doc)
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/deep_analysis.py", line 338, in analyze_document
+    for entity, ctx in walk_entities(layout, doc, context, warnings):
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/deep_analysis.py", line 209, in walk_entities
+    extrusion = entity.dxf.get('extrusion', Vec3(0, 0, 1))
+  File "/home/gxl/code/cad-cost-estimation/.venv/lib/python3.10/site-packages/ezdxf/entities/dxfns.py", line 223, in get
+    raise const.DXFAttributeError(
+ezdxf.lldxf.const.DXFAttributeError: Invalid DXF attribute "extrusion" for entity ACAD_TABLE
+2026-10-14 21:21:20,694 INFO cad_inventory.deep_pipeline Reading smx0100-m26a-a-DXF/smx0100-m22b-a.dxf
+2026-10-14 21:21:20,815 ERROR cad_inventory.deep_pipeline Failed smx0100-m26a-a-DXF/smx0100-m22b-a.dxf
+Traceback (most recent call last):
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/deep_pipeline.py", line 144, in analyze_files
+    item['analysis'] = analyze_document(doc)
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/deep_analysis.py", line 338, in analyze_document
+    for entity, ctx in walk_entities(layout, doc, context, warnings):
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/deep_analysis.py", line 209, in walk_entities
+    extrusion = entity.dxf.get('extrusion', Vec3(0, 0, 1))
+  File "/home/gxl/code/cad-cost-estimation/.venv/lib/python3.10/site-packages/ezdxf/entities/dxfns.py", line 223, in get
+    raise const.DXFAttributeError(
+ezdxf.lldxf.const.DXFAttributeError: Invalid DXF attribute "extrusion" for entity ACAD_TABLE
+2026-10-14 21:21:20,816 INFO cad_inventory.deep_pipeline Reading smx0100-m26a-a-DXF/smx0100-m24a-a.dxf
+2026-10-14 21:21:21,315 ERROR cad_inventory.deep_pipeline Failed smx0100-m26a-a-DXF/smx0100-m24a-a.dxf
+Traceback (most recent call last):
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/deep_pipeline.py", line 144, in analyze_files
+    item['analysis'] = analyze_document(doc)
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/deep_analysis.py", line 338, in analyze_document
+    for entity, ctx in walk_entities(layout, doc, context, warnings):
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/deep_analysis.py", line 209, in walk_entities
+    extrusion = entity.dxf.get('extrusion', Vec3(0, 0, 1))
+  File "/home/gxl/code/cad-cost-estimation/.venv/lib/python3.10/site-packages/ezdxf/entities/dxfns.py", line 223, in get
+    raise const.DXFAttributeError(
+ezdxf.lldxf.const.DXFAttributeError: Invalid DXF attribute "extrusion" for entity ACAD_TABLE
+2026-10-14 21:21:21,316 INFO cad_inventory.deep_pipeline Reading smx0100-m26a-a-DXF/smx0100-m24b-a.dxf
+2026-10-14 21:21:21,440 ERROR cad_inventory.deep_pipeline Failed smx0100-m26a-a-DXF/smx0100-m24b-a.dxf
+Traceback (most recent call last):
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/deep_pipeline.py", line 144, in analyze_files
+    item['analysis'] = analyze_document(doc)
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/deep_analysis.py", line 338, in analyze_document
+    for entity, ctx in walk_entities(layout, doc, context, warnings):
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/deep_analysis.py", line 209, in walk_entities
+    extrusion = entity.dxf.get('extrusion', Vec3(0, 0, 1))
+  File "/home/gxl/code/cad-cost-estimation/.venv/lib/python3.10/site-packages/ezdxf/entities/dxfns.py", line 223, in get
+    raise const.DXFAttributeError(
+ezdxf.lldxf.const.DXFAttributeError: Invalid DXF attribute "extrusion" for entity ACAD_TABLE
+2026-10-14 21:21:21,441 INFO cad_inventory.deep_pipeline Reading smx0100-m26a-a-DXF/smx0100-m25a-a.dxf
+2026-10-14 21:21:21,747 ERROR cad_inventory.deep_pipeline Failed smx0100-m26a-a-DXF/smx0100-m25a-a.dxf
+Traceback (most recent call last):
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/deep_pipeline.py", line 144, in analyze_files
+    item['analysis'] = analyze_document(doc)
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/deep_analysis.py", line 338, in analyze_document
+    for entity, ctx in walk_entities(layout, doc, context, warnings):
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/deep_analysis.py", line 209, in walk_entities
+    extrusion = entity.dxf.get('extrusion', Vec3(0, 0, 1))
+  File "/home/gxl/code/cad-cost-estimation/.venv/lib/python3.10/site-packages/ezdxf/entities/dxfns.py", line 223, in get
+    raise const.DXFAttributeError(
+ezdxf.lldxf.const.DXFAttributeError: Invalid DXF attribute "extrusion" for entity ACAD_TABLE
+2026-10-14 21:21:21,748 INFO cad_inventory.deep_pipeline Reading smx0100-m26a-a-DXF/smx0100-m26a-a.dxf
+2026-10-14 21:21:21,875 ERROR cad_inventory.deep_pipeline Failed smx0100-m26a-a-DXF/smx0100-m26a-a.dxf
+Traceback (most recent call last):
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/deep_pipeline.py", line 144, in analyze_files
+    item['analysis'] = analyze_document(doc)
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/deep_analysis.py", line 338, in analyze_document
+    for entity, ctx in walk_entities(layout, doc, context, warnings):
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/deep_analysis.py", line 209, in walk_entities
+    extrusion = entity.dxf.get('extrusion', Vec3(0, 0, 1))
+  File "/home/gxl/code/cad-cost-estimation/.venv/lib/python3.10/site-packages/ezdxf/entities/dxfns.py", line 223, in get
+    raise const.DXFAttributeError(
+ezdxf.lldxf.const.DXFAttributeError: Invalid DXF attribute "extrusion" for entity ACAD_TABLE
+2026-10-14 21:21:27,122 INFO cad_inventory.deep_pipeline Saved JSON /home/gxl/code/cad-cost-estimation/data/processed/dxf_inventory.json and report /home/gxl/code/cad-cost-estimation/reports/dxf_deep_analysis.md; summary={'total_files': 7, 'status_counts': {'parsed': 1, 'error': 6}, 'total_bytes': 17782738, 'all_sources_unchanged': True}
+2026-10-14 21:22:25,147 INFO cad_inventory.deep_pipeline Reading CMY1000A-图档179张.dxf
+2026-10-14 21:22:36,050 INFO cad_inventory.deep_pipeline Extracted CMY1000A-图档179张.dxf: {'dxf_version': 'AC1032', 'entity_total': 15969, 'entity_count_scope': 'top-level model + paperspace, excluding attached attributes and block contents', 'entity_database_total': 52306, 'layer_count': 25, 'layout_count': 2, 'paper_layout_count': 1, 'block_count': 3186, 'block_count_definition': 'block definitions, including anonymous dimension/table/layout blocks', 'insert_count': 1340, 'units_code': 4, 'measurement_system': 1}
+2026-10-14 21:22:36,061 INFO cad_inventory.deep_pipeline Reading smx0100-m26a-a-DXF/smx0100-m22a-a.dxf
+2026-10-14 21:22:36,177 INFO cad_inventory.deep_pipeline Extracted smx0100-m26a-a-DXF/smx0100-m22a-a.dxf: {'dxf_version': 'AC1032', 'entity_total': 196, 'entity_count_scope': 'top-level model + paperspace, excluding attached attributes and block contents', 'entity_database_total': 573, 'layer_count': 12, 'layout_count': 2, 'paper_layout_count': 1, 'block_count': 12, 'block_count_definition': 'block definitions, including anonymous dimension/table/layout blocks', 'insert_count': 0, 'units_code': 4, 'measurement_system': 1}
+2026-10-14 21:22:36,178 INFO cad_inventory.deep_pipeline Reading smx0100-m26a-a-DXF/smx0100-m22b-a.dxf
+2026-10-14 21:22:36,684 INFO cad_inventory.deep_pipeline Extracted smx0100-m26a-a-DXF/smx0100-m22b-a.dxf: {'dxf_version': 'AC1032', 'entity_total': 217, 'entity_count_scope': 'top-level model + paperspace, excluding attached attributes and block contents', 'entity_database_total': 637, 'layer_count': 12, 'layout_count': 2, 'paper_layout_count': 1, 'block_count': 16, 'block_count_definition': 'block definitions, including anonymous dimension/table/layout blocks', 'insert_count': 0, 'units_code': 4, 'measurement_system': 1}
+2026-10-14 21:22:36,684 INFO cad_inventory.deep_pipeline Reading smx0100-m26a-a-DXF/smx0100-m24a-a.dxf
+2026-10-14 21:22:36,804 INFO cad_inventory.deep_pipeline Extracted smx0100-m26a-a-DXF/smx0100-m24a-a.dxf: {'dxf_version': 'AC1032', 'entity_total': 224, 'entity_count_scope': 'top-level model + paperspace, excluding attached attributes and block contents', 'entity_database_total': 671, 'layer_count': 12, 'layout_count': 2, 'paper_layout_count': 1, 'block_count': 19, 'block_count_definition': 'block definitions, including anonymous dimension/table/layout blocks', 'insert_count': 0, 'units_code': 4, 'measurement_system': 1}
+2026-10-14 21:22:36,805 INFO cad_inventory.deep_pipeline Reading smx0100-m26a-a-DXF/smx0100-m24b-a.dxf
+2026-10-14 21:22:36,945 INFO cad_inventory.deep_pipeline Extracted smx0100-m26a-a-DXF/smx0100-m24b-a.dxf: {'dxf_version': 'AC1032', 'entity_total': 353, 'entity_count_scope': 'top-level model + paperspace, excluding attached attributes and block contents', 'entity_database_total': 916, 'layer_count': 12, 'layout_count': 2, 'paper_layout_count': 1, 'block_count': 30, 'block_count_definition': 'block definitions, including anonymous dimension/table/layout blocks', 'insert_count': 0, 'units_code': 4, 'measurement_system': 1}
+2026-10-14 21:22:36,946 INFO cad_inventory.deep_pipeline Reading smx0100-m26a-a-DXF/smx0100-m25a-a.dxf
+2026-10-14 21:22:37,260 INFO cad_inventory.deep_pipeline Extracted smx0100-m26a-a-DXF/smx0100-m25a-a.dxf: {'dxf_version': 'AC1032', 'entity_total': 335, 'entity_count_scope': 'top-level model + paperspace, excluding attached attributes and block contents', 'entity_database_total': 880, 'layer_count': 12, 'layout_count': 2, 'paper_layout_count': 1, 'block_count': 28, 'block_count_definition': 'block definitions, including anonymous dimension/table/layout blocks', 'insert_count': 0, 'units_code': 4, 'measurement_system': 1}
+2026-10-14 21:22:37,261 INFO cad_inventory.deep_pipeline Reading smx0100-m26a-a-DXF/smx0100-m26a-a.dxf
+2026-10-14 21:22:37,393 INFO cad_inventory.deep_pipeline Extracted smx0100-m26a-a-DXF/smx0100-m26a-a.dxf: {'dxf_version': 'AC1032', 'entity_total': 348, 'entity_count_scope': 'top-level model + paperspace, excluding attached attributes and block contents', 'entity_database_total': 907, 'layer_count': 12, 'layout_count': 2, 'paper_layout_count': 1, 'block_count': 32, 'block_count_definition': 'block definitions, including anonymous dimension/table/layout blocks', 'insert_count': 0, 'units_code': 4, 'measurement_system': 1}
+2026-10-14 21:22:41,018 INFO cad_inventory.deep_pipeline Saved JSON /home/gxl/code/cad-cost-estimation/data/processed/dxf_inventory.json and report /home/gxl/code/cad-cost-estimation/reports/dxf_deep_analysis.md; summary={'total_files': 7, 'status_counts': {'parsed': 7}, 'total_bytes': 17782738, 'all_sources_unchanged': True}
+2026-10-14 21:24:30,148 INFO cad_inventory.deep_pipeline Reading CMY1000A-图档179张.dxf
+2026-10-14 21:24:40,878 INFO cad_inventory.deep_pipeline Extracted CMY1000A-图档179张.dxf: {'dxf_version': 'AC1032', 'entity_total': 15969, 'entity_count_scope': 'top-level model + paperspace, excluding attached attributes and block contents', 'entity_database_total': 52306, 'layer_count': 25, 'layout_count': 2, 'paper_layout_count': 1, 'block_count': 3186, 'block_count_definition': 'block definitions, including anonymous dimension/table/layout blocks', 'insert_count': 1340, 'units_code': 4, 'measurement_system': 1}
+2026-10-14 21:24:40,889 INFO cad_inventory.deep_pipeline Reading smx0100-m26a-a-DXF/smx0100-m22a-a.dxf
+2026-10-14 21:24:41,008 INFO cad_inventory.deep_pipeline Extracted smx0100-m26a-a-DXF/smx0100-m22a-a.dxf: {'dxf_version': 'AC1032', 'entity_total': 196, 'entity_count_scope': 'top-level model + paperspace, excluding attached attributes and block contents', 'entity_database_total': 573, 'layer_count': 12, 'layout_count': 2, 'paper_layout_count': 1, 'block_count': 12, 'block_count_definition': 'block definitions, including anonymous dimension/table/layout blocks', 'insert_count': 0, 'units_code': 4, 'measurement_system': 1}
+2026-10-14 21:24:41,009 INFO cad_inventory.deep_pipeline Reading smx0100-m26a-a-DXF/smx0100-m22b-a.dxf
+2026-10-14 21:24:41,512 INFO cad_inventory.deep_pipeline Extracted smx0100-m26a-a-DXF/smx0100-m22b-a.dxf: {'dxf_version': 'AC1032', 'entity_total': 217, 'entity_count_scope': 'top-level model + paperspace, excluding attached attributes and block contents', 'entity_database_total': 637, 'layer_count': 12, 'layout_count': 2, 'paper_layout_count': 1, 'block_count': 16, 'block_count_definition': 'block definitions, including anonymous dimension/table/layout blocks', 'insert_count': 0, 'units_code': 4, 'measurement_system': 1}
+2026-10-14 21:24:41,513 INFO cad_inventory.deep_pipeline Reading smx0100-m26a-a-DXF/smx0100-m24a-a.dxf
+2026-10-14 21:24:41,631 INFO cad_inventory.deep_pipeline Extracted smx0100-m26a-a-DXF/smx0100-m24a-a.dxf: {'dxf_version': 'AC1032', 'entity_total': 224, 'entity_count_scope': 'top-level model + paperspace, excluding attached attributes and block contents', 'entity_database_total': 671, 'layer_count': 12, 'layout_count': 2, 'paper_layout_count': 1, 'block_count': 19, 'block_count_definition': 'block definitions, including anonymous dimension/table/layout blocks', 'insert_count': 0, 'units_code': 4, 'measurement_system': 1}
+2026-10-14 21:24:41,632 INFO cad_inventory.deep_pipeline Reading smx0100-m26a-a-DXF/smx0100-m24b-a.dxf
+2026-10-14 21:24:41,772 INFO cad_inventory.deep_pipeline Extracted smx0100-m26a-a-DXF/smx0100-m24b-a.dxf: {'dxf_version': 'AC1032', 'entity_total': 353, 'entity_count_scope': 'top-level model + paperspace, excluding attached attributes and block contents', 'entity_database_total': 916, 'layer_count': 12, 'layout_count': 2, 'paper_layout_count': 1, 'block_count': 30, 'block_count_definition': 'block definitions, including anonymous dimension/table/layout blocks', 'insert_count': 0, 'units_code': 4, 'measurement_system': 1}
+2026-10-14 21:24:41,773 INFO cad_inventory.deep_pipeline Reading smx0100-m26a-a-DXF/smx0100-m25a-a.dxf
+2026-10-14 21:24:42,084 INFO cad_inventory.deep_pipeline Extracted smx0100-m26a-a-DXF/smx0100-m25a-a.dxf: {'dxf_version': 'AC1032', 'entity_total': 335, 'entity_count_scope': 'top-level model + paperspace, excluding attached attributes and block contents', 'entity_database_total': 880, 'layer_count': 12, 'layout_count': 2, 'paper_layout_count': 1, 'block_count': 28, 'block_count_definition': 'block definitions, including anonymous dimension/table/layout blocks', 'insert_count': 0, 'units_code': 4, 'measurement_system': 1}
+2026-10-14 21:24:42,084 INFO cad_inventory.deep_pipeline Reading smx0100-m26a-a-DXF/smx0100-m26a-a.dxf
+2026-10-14 21:24:42,238 INFO cad_inventory.deep_pipeline Extracted smx0100-m26a-a-DXF/smx0100-m26a-a.dxf: {'dxf_version': 'AC1032', 'entity_total': 348, 'entity_count_scope': 'top-level model + paperspace, excluding attached attributes and block contents', 'entity_database_total': 907, 'layer_count': 12, 'layout_count': 2, 'paper_layout_count': 1, 'block_count': 32, 'block_count_definition': 'block definitions, including anonymous dimension/table/layout blocks', 'insert_count': 0, 'units_code': 4, 'measurement_system': 1}
+2026-10-14 21:24:45,694 INFO cad_inventory.deep_pipeline Saved JSON /home/gxl/code/cad-cost-estimation/data/processed/dxf_inventory.json and report /home/gxl/code/cad-cost-estimation/reports/dxf_deep_analysis.md; summary={'total_files': 7, 'status_counts': {'parsed': 7}, 'total_bytes': 17782738, 'all_sources_unchanged': True}

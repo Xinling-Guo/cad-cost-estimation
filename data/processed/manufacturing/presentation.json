@@ -1,0 +1,929 @@
+{
+  "source_file": "/home/gxl/code/cad-cost-estimation/doc/机加图档工艺工时说明.pptx",
+  "slide_count": 6,
+  "slides": [
+    {
+      "slide_number": 1,
+      "shapes": [
+        {
+          "shape_id": 2,
+          "name": "Title 1",
+          "shape_type": 14,
+          "position_emu": [
+            574531,
+            1602379,
+            9135526,
+            1062446
+          ],
+          "text": "机加图档工艺工时说明"
+        },
+        {
+          "shape_id": 3,
+          "name": "Subtitle 2",
+          "shape_type": 14,
+          "position_emu": [
+            574532,
+            3091424,
+            5815360,
+            1193260
+          ],
+          "text": "报  告  人：  唐正予\n报告时间：  2026年10月15日"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "slide_number": 2,
+      "shapes": [
+        {
+          "shape_id": 5,
+          "name": "标题 1",
+          "shape_type": 14,
+          "position_emu": [
+            626839,
+            215538,
+            9562190,
+            489856
+          ],
+          "text": "Contents 目录"
+        },
+        {
+          "shape_id": 2,
+          "name": "文本框 1",
+          "shape_type": 17,
+          "position_emu": [
+            1056000,
+            1260000,
+            10080000,
+            1200329
+          ],
+          "text": "提供的相关文件说明\n零件历史工艺工时如何结合及查看\n需要进行放电加工的特例说明"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "slide_number": 3,
+      "shapes": [
+        {
+          "shape_id": 5,
+          "name": "标题 1",
+          "shape_type": 14,
+          "position_emu": [
+            626839,
+            215538,
+            9562190,
+            489856
+          ],
+          "text": "提供的相关文件说明"
+        },
+        {
+          "shape_id": 7,
+          "name": "图片 6",
+          "shape_type": 13,
+          "position_emu": [
+            3819867,
+            1800000,
+            4552267,
+            3600000
+          ],
+          "image_file": "/home/gxl/code/cad-cost-estimation/data/processed/manufacturing/presentation/images/slide_3_shape_7.png"
+        },
+        {
+          "shape_id": 8,
+          "name": "文本框 7",
+          "shape_type": 17,
+          "position_emu": [
+            8518849,
+            4371392,
+            877163,
+            369332
+          ],
+          "text": "本文件"
+        },
+        {
+          "shape_id": 10,
+          "name": "直接箭头连接符 9",
+          "shape_type": 9,
+          "position_emu": [
+            7840824,
+            4556058,
+            678025,
+            130741
+          ],
+          "connector": {
+            "start_shape_id": 8,
+            "end_shape_id": null,
+            "head_end_types": [],
+            "tail_end_types": [
+              "arrow"
+            ]
+          }
+        },
+        {
+          "shape_id": 14,
+          "name": "直接箭头连接符 13",
+          "shape_type": 9,
+          "position_emu": [
+            7221894,
+            5131837,
+            618930,
+            84895
+          ],
+          "connector": {
+            "start_shape_id": 15,
+            "end_shape_id": null,
+            "head_end_types": [],
+            "tail_end_types": [
+              "arrow"
+            ]
+          }
+        },
+        {
+          "shape_id": 15,
+          "name": "文本框 14",
+          "shape_type": 17,
+          "position_emu": [
+            7840824,
+            5032066,
+            3882794,
+            369332
+          ],
+          "text": "详细工艺工时中工序名称的对应说明"
+        },
+        {
+          "shape_id": 17,
+          "name": "文本框 16",
+          "shape_type": 17,
+          "position_emu": [
+            8518849,
+            3276786,
+            3416320,
+            369332
+          ],
+          "text": "冲压模具图档及对应的工艺工时"
+        },
+        {
+          "shape_id": 18,
+          "name": "直接箭头连接符 17",
+          "shape_type": 9,
+          "position_emu": [
+            7968343,
+            3222861,
+            550506,
+            238591
+          ],
+          "connector": {
+            "start_shape_id": 17,
+            "end_shape_id": null,
+            "head_end_types": [],
+            "tail_end_types": [
+              "arrow"
+            ]
+          }
+        },
+        {
+          "shape_id": 23,
+          "name": "直接箭头连接符 22",
+          "shape_type": 9,
+          "position_emu": [
+            8098971,
+            3461452,
+            419878,
+            238591
+          ],
+          "connector": {
+            "start_shape_id": 17,
+            "end_shape_id": null,
+            "head_end_types": [],
+            "tail_end_types": [
+              "arrow"
+            ]
+          }
+        },
+        {
+          "shape_id": 26,
+          "name": "文本框 25",
+          "shape_type": 17,
+          "position_emu": [
+            256831,
+            3330711,
+            3416320,
+            369332
+          ],
+          "text": "注塑模具图档及对应的工艺工时"
+        },
+        {
+          "shape_id": 27,
+          "name": "直接箭头连接符 26",
+          "shape_type": 9,
+          "position_emu": [
+            3595664,
+            2696547,
+            497366,
+            818830
+          ]
+        },
+        {
+          "shape_id": 31,
+          "name": "直接箭头连接符 30",
+          "shape_type": 9,
+          "position_emu": [
+            3595664,
+            3515377,
+            379177,
+            632291
+          ]
+        },
+        {
+          "shape_id": 36,
+          "name": "文本框 35",
+          "shape_type": 17,
+          "position_emu": [
+            5795346,
+            1551123,
+            3600666,
+            369332
+          ],
+          "text": "注塑模具图档2D图纸均有3D文件"
+        },
+        {
+          "shape_id": 37,
+          "name": "文本框 36",
+          "shape_type": 17,
+          "position_emu": [
+            8329907,
+            2657786,
+            2787943,
+            369332
+          ],
+          "text": "冲压模具图档仅有2D图纸"
+        },
+        {
+          "shape_id": 38,
+          "name": "直接箭头连接符 37",
+          "shape_type": 9,
+          "position_emu": [
+            7910028,
+            2842452,
+            419879,
+            369332
+          ],
+          "connector": {
+            "start_shape_id": 37,
+            "end_shape_id": null,
+            "head_end_types": [],
+            "tail_end_types": [
+              "arrow"
+            ]
+          }
+        },
+        {
+          "shape_id": 41,
+          "name": "直接箭头连接符 40",
+          "shape_type": 9,
+          "position_emu": [
+            5795346,
+            1920455,
+            782736,
+            733360
+          ]
+        }
+      ],
+      "notes": null
+    },
+    {
+      "slide_number": 4,
+      "shapes": [
+        {
+          "shape_id": 8,
+          "name": "图片 7",
+          "shape_type": 13,
+          "position_emu": [
+            626400,
+            828000,
+            7883102,
+            5580000
+          ],
+          "image_file": "/home/gxl/code/cad-cost-estimation/data/processed/manufacturing/presentation/images/slide_4_shape_8.png"
+        },
+        {
+          "shape_id": 5,
+          "name": "标题 1",
+          "shape_type": 14,
+          "position_emu": [
+            626839,
+            215538,
+            9562190,
+            489856
+          ],
+          "text": "零件历史工艺工时如何结合及查看"
+        },
+        {
+          "shape_id": 4,
+          "name": "文本框 3",
+          "shape_type": 17,
+          "position_emu": [
+            6096001,
+            3522306,
+            1853682,
+            923330
+          ],
+          "text": "图纸中图号与表格中件号一一对应"
+        },
+        {
+          "shape_id": 6,
+          "name": "直接箭头连接符 5",
+          "shape_type": 9,
+          "position_emu": [
+            7217638,
+            4273420,
+            433464,
+            1642188
+          ]
+        },
+        {
+          "shape_id": 10,
+          "name": "图片 9",
+          "shape_type": 13,
+          "position_emu": [
+            7217638,
+            1454606,
+            4619189,
+            1222198
+          ],
+          "image_file": "/home/gxl/code/cad-cost-estimation/data/processed/manufacturing/presentation/images/slide_4_shape_10.png"
+        },
+        {
+          "shape_id": 14,
+          "name": "直接箭头连接符 13",
+          "shape_type": 9,
+          "position_emu": [
+            7863570,
+            1707502,
+            645932,
+            2013806
+          ]
+        },
+        {
+          "shape_id": 17,
+          "name": "文本框 16",
+          "shape_type": 17,
+          "position_emu": [
+            9257410,
+            3259643,
+            2039321,
+            923330
+          ],
+          "text": "表格中同一件号表示同一个零件，工序为从上至下排列"
+        },
+        {
+          "shape_id": 18,
+          "name": "直接箭头连接符 17",
+          "shape_type": 9,
+          "position_emu": [
+            10277071,
+            2399685,
+            527778,
+            859958
+          ],
+          "connector": {
+            "start_shape_id": 17,
+            "end_shape_id": null,
+            "head_end_types": [],
+            "tail_end_types": [
+              "arrow"
+            ]
+          }
+        },
+        {
+          "shape_id": 21,
+          "name": "直接箭头连接符 20",
+          "shape_type": 9,
+          "position_emu": [
+            9527232,
+            2481943,
+            749838,
+            777700
+          ]
+        }
+      ],
+      "notes": null
+    },
+    {
+      "slide_number": 5,
+      "shapes": [
+        {
+          "shape_id": 5,
+          "name": "标题 1",
+          "shape_type": 14,
+          "position_emu": [
+            626839,
+            215538,
+            9562190,
+            489856
+          ],
+          "text": "需要进行CNC精密放电加工的特例说明"
+        },
+        {
+          "shape_id": 10,
+          "name": "文本框 9",
+          "shape_type": 17,
+          "position_emu": [
+            626839,
+            2340000,
+            10800000,
+            923330
+          ],
+          "text": "SMX0100-F20A这个零件主体有四个加工工艺，按顺序为MS2→TG2→EDM1→EDM2，其中EDM2为精密CNC电极放电加工，加工用到两个铜电极，电极零件号为SMX0100-F20A=1=3和SMX0100-F20A=2=3，所以这个编号为SMX0100-F20A的零件的总加工工艺路径树状图如下："
+        },
+        {
+          "shape_id": 12,
+          "name": "图片 11",
+          "shape_type": 13,
+          "position_emu": [
+            626839,
+            827999,
+            4291201,
+            1440000
+          ],
+          "image_file": "/home/gxl/code/cad-cost-estimation/data/processed/manufacturing/presentation/images/slide_5_shape_12.png"
+        },
+        {
+          "shape_id": 14,
+          "name": "图片 13",
+          "shape_type": 13,
+          "position_emu": [
+            4918040,
+            827999,
+            6890321,
+            1440000
+          ],
+          "image_file": "/home/gxl/code/cad-cost-estimation/data/processed/manufacturing/presentation/images/slide_5_shape_14.png"
+        },
+        {
+          "shape_id": 15,
+          "name": "矩形 14",
+          "shape_type": 1,
+          "position_emu": [
+            626839,
+            4562669,
+            2295331,
+            513183
+          ],
+          "text": "SMX0100-F20A主体"
+        },
+        {
+          "shape_id": 16,
+          "name": "矩形 15",
+          "shape_type": 1,
+          "position_emu": [
+            3419804,
+            4562668,
+            1012238,
+            513183
+          ],
+          "text": "MS2"
+        },
+        {
+          "shape_id": 17,
+          "name": "矩形 16",
+          "shape_type": 1,
+          "position_emu": [
+            4929676,
+            4562666,
+            1012238,
+            513183
+          ],
+          "text": "TG2"
+        },
+        {
+          "shape_id": 18,
+          "name": "矩形 17",
+          "shape_type": 1,
+          "position_emu": [
+            6439548,
+            4562666,
+            1012238,
+            513183
+          ],
+          "text": "EDM1"
+        },
+        {
+          "shape_id": 19,
+          "name": "矩形 18",
+          "shape_type": 1,
+          "position_emu": [
+            7949420,
+            4562665,
+            1012238,
+            513183
+          ],
+          "text": "EDM2"
+        },
+        {
+          "shape_id": 20,
+          "name": "矩形 19",
+          "shape_type": 1,
+          "position_emu": [
+            6439548,
+            5516818,
+            1012238,
+            513183
+          ],
+          "text": "CNC3"
+        },
+        {
+          "shape_id": 21,
+          "name": "矩形 20",
+          "shape_type": 1,
+          "position_emu": [
+            6439548,
+            3656406,
+            1012238,
+            513183
+          ],
+          "text": "CNC3"
+        },
+        {
+          "shape_id": 22,
+          "name": "矩形 21",
+          "shape_type": 1,
+          "position_emu": [
+            4929676,
+            3656406,
+            1012238,
+            513183
+          ],
+          "text": "CNC3"
+        },
+        {
+          "shape_id": 23,
+          "name": "矩形 22",
+          "shape_type": 1,
+          "position_emu": [
+            1516359,
+            3656405,
+            2915683,
+            513183
+          ],
+          "text": "SMX0100-F20A=1=3电极"
+        },
+        {
+          "shape_id": 24,
+          "name": "矩形 23",
+          "shape_type": 1,
+          "position_emu": [
+            3026231,
+            5516817,
+            2915683,
+            513183
+          ],
+          "text": "SMX0100-F20A=2=3电极"
+        },
+        {
+          "shape_id": 25,
+          "name": "直接箭头连接符 24",
+          "shape_type": 9,
+          "position_emu": [
+            2922170,
+            4819260,
+            497634,
+            1
+          ],
+          "connector": {
+            "start_shape_id": 15,
+            "end_shape_id": 16,
+            "head_end_types": [],
+            "tail_end_types": [
+              "arrow"
+            ]
+          }
+        },
+        {
+          "shape_id": 28,
+          "name": "直接箭头连接符 27",
+          "shape_type": 9,
+          "position_emu": [
+            4432042,
+            4819258,
+            497634,
+            2
+          ],
+          "connector": {
+            "start_shape_id": 16,
+            "end_shape_id": 17,
+            "head_end_types": [],
+            "tail_end_types": [
+              "arrow"
+            ]
+          }
+        },
+        {
+          "shape_id": 31,
+          "name": "直接箭头连接符 30",
+          "shape_type": 9,
+          "position_emu": [
+            5941914,
+            4819258,
+            497634,
+            0
+          ],
+          "connector": {
+            "start_shape_id": 17,
+            "end_shape_id": 18,
+            "head_end_types": [],
+            "tail_end_types": [
+              "arrow"
+            ]
+          }
+        },
+        {
+          "shape_id": 34,
+          "name": "直接箭头连接符 33",
+          "shape_type": 9,
+          "position_emu": [
+            7451786,
+            4819257,
+            497634,
+            1
+          ],
+          "connector": {
+            "start_shape_id": 18,
+            "end_shape_id": 19,
+            "head_end_types": [],
+            "tail_end_types": [
+              "arrow"
+            ]
+          }
+        },
+        {
+          "shape_id": 37,
+          "name": "直接箭头连接符 36",
+          "shape_type": 9,
+          "position_emu": [
+            4432042,
+            3912997,
+            497634,
+            1
+          ],
+          "connector": {
+            "start_shape_id": 23,
+            "end_shape_id": 22,
+            "head_end_types": [],
+            "tail_end_types": [
+              "arrow"
+            ]
+          }
+        },
+        {
+          "shape_id": 40,
+          "name": "直接箭头连接符 39",
+          "shape_type": 9,
+          "position_emu": [
+            5941914,
+            3912998,
+            497634,
+            0
+          ],
+          "connector": {
+            "start_shape_id": 22,
+            "end_shape_id": 21,
+            "head_end_types": [],
+            "tail_end_types": [
+              "arrow"
+            ]
+          }
+        },
+        {
+          "shape_id": 43,
+          "name": "直接箭头连接符 42",
+          "shape_type": 9,
+          "position_emu": [
+            5941914,
+            5773409,
+            497634,
+            1
+          ],
+          "connector": {
+            "start_shape_id": 24,
+            "end_shape_id": 20,
+            "head_end_types": [],
+            "tail_end_types": [
+              "arrow"
+            ]
+          }
+        },
+        {
+          "shape_id": 47,
+          "name": "连接符: 肘形 46",
+          "shape_type": 9,
+          "position_emu": [
+            7451786,
+            5075848,
+            1003753,
+            697562
+          ],
+          "connector": {
+            "start_shape_id": 20,
+            "end_shape_id": 19,
+            "head_end_types": [],
+            "tail_end_types": [
+              "arrow"
+            ]
+          }
+        },
+        {
+          "shape_id": 48,
+          "name": "连接符: 肘形 47",
+          "shape_type": 9,
+          "position_emu": [
+            7451786,
+            3912998,
+            1003753,
+            649667
+          ],
+          "connector": {
+            "start_shape_id": 21,
+            "end_shape_id": 19,
+            "head_end_types": [],
+            "tail_end_types": [
+              "arrow"
+            ]
+          }
+        },
+        {
+          "shape_id": 53,
+          "name": "文本框 52",
+          "shape_type": 17,
+          "position_emu": [
+            8326194,
+            3336577,
+            2480078,
+            646331
+          ],
+          "text": "SMX0100-F20A=1=3电极放电加工用时3.5h"
+        },
+        {
+          "shape_id": 54,
+          "name": "文本框 53",
+          "shape_type": 17,
+          "position_emu": [
+            8326195,
+            5514847,
+            2480077,
+            646331
+          ],
+          "text": "SMX0100-F20A=2=3电极放电加工用时2.0h"
+        },
+        {
+          "shape_id": 55,
+          "name": "文本框 54",
+          "shape_type": 17,
+          "position_emu": [
+            5071829,
+            4184622,
+            672209,
+            369332
+          ],
+          "text": "1.5h"
+        },
+        {
+          "shape_id": 56,
+          "name": "文本框 55",
+          "shape_type": 17,
+          "position_emu": [
+            6609562,
+            4181461,
+            672209,
+            369332
+          ],
+          "text": "1.5h"
+        },
+        {
+          "shape_id": 57,
+          "name": "文本框 56",
+          "shape_type": 17,
+          "position_emu": [
+            6609562,
+            6030000,
+            672209,
+            369332
+          ],
+          "text": "0.7h"
+        },
+        {
+          "shape_id": 58,
+          "name": "文本框 57",
+          "shape_type": 17,
+          "position_emu": [
+            5101053,
+            5084561,
+            672209,
+            369332
+          ],
+          "text": "2.5h"
+        },
+        {
+          "shape_id": 59,
+          "name": "文本框 58",
+          "shape_type": 17,
+          "position_emu": [
+            6609561,
+            5084561,
+            672209,
+            369332
+          ],
+          "text": "4.0h"
+        },
+        {
+          "shape_id": 60,
+          "name": "文本框 59",
+          "shape_type": 17,
+          "position_emu": [
+            3589582,
+            5084561,
+            672209,
+            369332
+          ],
+          "text": "4.0h"
+        },
+        {
+          "shape_id": 61,
+          "name": "矩形 60",
+          "shape_type": 1,
+          "position_emu": [
+            9459293,
+            4562665,
+            1756104,
+            513183
+          ],
+          "text": "主体加工完成"
+        },
+        {
+          "shape_id": 62,
+          "name": "直接箭头连接符 61",
+          "shape_type": 9,
+          "position_emu": [
+            8961658,
+            4819257,
+            497635,
+            0
+          ],
+          "connector": {
+            "start_shape_id": 19,
+            "end_shape_id": 61,
+            "head_end_types": [],
+            "tail_end_types": [
+              "arrow"
+            ]
+          }
+        }
+      ],
+      "notes": null
+    },
+    {
+      "slide_number": 6,
+      "shapes": [
+        {
+          "shape_id": 5,
+          "name": "Text Placeholder 5",
+          "shape_type": 17,
+          "position_emu": [
+            2829626,
+            2864840,
+            6532747,
+            762560
+          ],
+          "text": "Thanks for your attention!"
+        }
+      ],
+      "notes": null
+    }
+  ],
+  "verified_business_rules": [
+    {
+      "slide": 3,
+      "rule": "CMY1000A 为冲压模具，仅2D；SMX0100 为注塑模具，说明称2D均有3D。"
+    },
+    {
+      "slide": 4,
+      "rule": "图号对应Excel件号，同件号工序按从上至下排列。"
+    },
+    {
+      "slide": 5,
+      "rule": "F20A 主体 MS2→TG2→EDM1→EDM2；两个铜电极支线汇入EDM2。"
+    },
+    {
+      "slide": 5,
+      "rule": "电极1 CNC3 1.5h→CNC3 1.5h，放电3.5h；电极2 CNC3 0.7h，放电2.0h。"
+    }
+  ],
+  "unit_evidence": {
+    "slide": 5,
+    "unit": "h",
+    "scope": "F20A example",
+    "full_workbook_unit_confirmed": false
+  },
+  "actual_time_confirmed": false
+}

@@ -1,0 +1,580 @@
+{
+  "all_sources_unchanged": true,
+  "source_count": 82,
+  "sources": [
+    {
+      "source_file": "data/raw/CMY1000A-图档179张.dwg",
+      "size_bytes": 2172769,
+      "sha256_before": "da0d13433b71300c63e7eb4343272cfaf32ed4b945591fa1fa757dff6de9fcb8",
+      "sha256_after": "da0d13433b71300c63e7eb4343272cfaf32ed4b945591fa1fa757dff6de9fcb8",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/CMY1000A-图档179张.dxf",
+      "size_bytes": 13898195,
+      "sha256_before": "501252c0f4d0ca13f7fc6f768a75dfc9a60371320504073361b3dcd502d06840",
+      "sha256_after": "501252c0f4d0ca13f7fc6f768a75dfc9a60371320504073361b3dcd502d06840",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-e01a-a.dwg",
+      "size_bytes": 77462,
+      "sha256_before": "efadeb35d6d5abe89b49e983defc9af25a17f90957dfcf4bc99b2dbfde965f86",
+      "sha256_after": "efadeb35d6d5abe89b49e983defc9af25a17f90957dfcf4bc99b2dbfde965f86",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-e01a-a.stp",
+      "size_bytes": 1110945,
+      "sha256_before": "8427d2e7242902126e1d544b776d34bf359084e4add61dc0ffcdf93189d615ac",
+      "sha256_after": "8427d2e7242902126e1d544b776d34bf359084e4add61dc0ffcdf93189d615ac",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-e02a-a.dwg",
+      "size_bytes": 62799,
+      "sha256_before": "adb14640d06567815a4bac6ae7466904eb8d783ac06ab539777da6be41f7d6ee",
+      "sha256_after": "adb14640d06567815a4bac6ae7466904eb8d783ac06ab539777da6be41f7d6ee",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-e02a-a.stp",
+      "size_bytes": 790554,
+      "sha256_before": "fbd847e98ce898a441a2fdaf5c9d822e88209668393311770756bbe23ad54752",
+      "sha256_after": "fbd847e98ce898a441a2fdaf5c9d822e88209668393311770756bbe23ad54752",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-f03b-a.dwg",
+      "size_bytes": 65291,
+      "sha256_before": "0dc2d0fbfdd336a9aab7b974fd86899754fb8f14f44cc0e2e29ee75a779b18ff",
+      "sha256_after": "0dc2d0fbfdd336a9aab7b974fd86899754fb8f14f44cc0e2e29ee75a779b18ff",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-f03b-a.stp",
+      "size_bytes": 671578,
+      "sha256_before": "6fc8a8ad21f58b2ddbab65a8ce1a91cd657313707605f2f84990c0be8447c171",
+      "sha256_after": "6fc8a8ad21f58b2ddbab65a8ce1a91cd657313707605f2f84990c0be8447c171",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-f04b-a.dwg",
+      "size_bytes": 113828,
+      "sha256_before": "35aa80f571000af6313631ed2a93b1d4f693b53491719340eb1ac33df54f63fe",
+      "sha256_after": "35aa80f571000af6313631ed2a93b1d4f693b53491719340eb1ac33df54f63fe",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-f04b-a.stp",
+      "size_bytes": 796799,
+      "sha256_before": "a9607673cae614507b1bc80e3a05257d1f2d4aeaf023112613d4ef25e8783a10",
+      "sha256_after": "a9607673cae614507b1bc80e3a05257d1f2d4aeaf023112613d4ef25e8783a10",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-f20a-a.dwg",
+      "size_bytes": 70603,
+      "sha256_before": "f646d7a2895c3760667f5791c6050c965ddf186396e8d9ab9e9747e842c6b8c2",
+      "sha256_after": "f646d7a2895c3760667f5791c6050c965ddf186396e8d9ab9e9747e842c6b8c2",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-f20a-a.stp",
+      "size_bytes": 278269,
+      "sha256_before": "de1a7cca90d3a1072dbe2cd45f41097039e409be5e63a05dc7a723ab21c8c117",
+      "sha256_after": "de1a7cca90d3a1072dbe2cd45f41097039e409be5e63a05dc7a723ab21c8c117",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-f21a-a.dwg",
+      "size_bytes": 88214,
+      "sha256_before": "d4b4d50dc485e8b61ee5c7d3062e3ec05203b61c93b0e18bb6aa4fc948e59f8c",
+      "sha256_after": "d4b4d50dc485e8b61ee5c7d3062e3ec05203b61c93b0e18bb6aa4fc948e59f8c",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-f21a-a.stp",
+      "size_bytes": 345611,
+      "sha256_before": "f76eae4c220859ad481265cc633d335faefaa2739dc8f08a3dcb4434dc3aec5b",
+      "sha256_after": "f76eae4c220859ad481265cc633d335faefaa2739dc8f08a3dcb4434dc3aec5b",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-f22a-a.dwg",
+      "size_bytes": 81047,
+      "sha256_before": "c3422b5dab4cb20f1aa98be06c3d8afff98c77c359b6183f40579e7edac2be00",
+      "sha256_after": "c3422b5dab4cb20f1aa98be06c3d8afff98c77c359b6183f40579e7edac2be00",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-f22a-a.stp",
+      "size_bytes": 311795,
+      "sha256_before": "b9ce76a222f72e4e38659551e26061b503058266455b6889c287b0baf5f9cdf6",
+      "sha256_after": "b9ce76a222f72e4e38659551e26061b503058266455b6889c287b0baf5f9cdf6",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-m02b-a.dwg",
+      "size_bytes": 111173,
+      "sha256_before": "bc372c9524da8ddc67942e0610967360fb5b87c1aac96a7b3ff36b084eec51ab",
+      "sha256_after": "bc372c9524da8ddc67942e0610967360fb5b87c1aac96a7b3ff36b084eec51ab",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-m02b-a.stp",
+      "size_bytes": 947715,
+      "sha256_before": "810829a5596c535ffb826806bbebf2aaae399f4305d6f617a208f6d90ff15758",
+      "sha256_after": "810829a5596c535ffb826806bbebf2aaae399f4305d6f617a208f6d90ff15758",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-m03b-a.dwg",
+      "size_bytes": 79577,
+      "sha256_before": "af11676e774dc8433f57207890b552e919af28147e01fa53e94968a8e2d62a07",
+      "sha256_after": "af11676e774dc8433f57207890b552e919af28147e01fa53e94968a8e2d62a07",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-m03b-a.stp",
+      "size_bytes": 937991,
+      "sha256_before": "e34119c2883b4ea7d21efc7e14b6b09b2918e3f0e5fa07b259f7501266b1632b",
+      "sha256_after": "e34119c2883b4ea7d21efc7e14b6b09b2918e3f0e5fa07b259f7501266b1632b",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-m20a-a.dwg",
+      "size_bytes": 188323,
+      "sha256_before": "dd532eb5f160957441a1555ad724fc26d4dd70c6879b80b0f73f408234648d58",
+      "sha256_after": "dd532eb5f160957441a1555ad724fc26d4dd70c6879b80b0f73f408234648d58",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-m20a-a.stp",
+      "size_bytes": 999947,
+      "sha256_before": "783d18bb6a34ea927e3ed35c7f696e7296350bb71930f3e2a6b69ecaedce703e",
+      "sha256_after": "783d18bb6a34ea927e3ed35c7f696e7296350bb71930f3e2a6b69ecaedce703e",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-m21a-a.dwg",
+      "size_bytes": 83121,
+      "sha256_before": "090b4c7e8a0c95626b0fe71aa324808c1e8d0648ac9d16d46a76588ab3343578",
+      "sha256_after": "090b4c7e8a0c95626b0fe71aa324808c1e8d0648ac9d16d46a76588ab3343578",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-m21a-a.stp",
+      "size_bytes": 327170,
+      "sha256_before": "9b93bf2178225889f4bc1d7dcae3084da3f82f709d070e153a9ad5f432a975cd",
+      "sha256_after": "9b93bf2178225889f4bc1d7dcae3084da3f82f709d070e153a9ad5f432a975cd",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-m21b-a.dwg",
+      "size_bytes": 109783,
+      "sha256_before": "9c85976ef6bbbb03e8968a1c43eb8587364e0abd0766782dc86a19ac2e1fca75",
+      "sha256_after": "9c85976ef6bbbb03e8968a1c43eb8587364e0abd0766782dc86a19ac2e1fca75",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-m21b-a.stp",
+      "size_bytes": 674767,
+      "sha256_before": "655b87222b84d17a62636f68edcfe3a29185358e1c1aa924edc1c9700c85d529",
+      "sha256_after": "655b87222b84d17a62636f68edcfe3a29185358e1c1aa924edc1c9700c85d529",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-m22a-a.dwg",
+      "size_bytes": 43390,
+      "sha256_before": "2630e2a96562689b83ecb38a894909af06ff054ab6def1f36ed9b4812040683a",
+      "sha256_after": "2630e2a96562689b83ecb38a894909af06ff054ab6def1f36ed9b4812040683a",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-m22a-a.stp",
+      "size_bytes": 23343,
+      "sha256_before": "f8b5f671c144dbe7b4a15bda4bc17bfce57849e06ef78d175d5bf02ef58d27c3",
+      "sha256_after": "f8b5f671c144dbe7b4a15bda4bc17bfce57849e06ef78d175d5bf02ef58d27c3",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-m22b-a.dwg",
+      "size_bytes": 46271,
+      "sha256_before": "e66d94ae6c8ee6cd9178ed95e28357530d02cea388db1ac92ef21aa2a5b6337b",
+      "sha256_after": "e66d94ae6c8ee6cd9178ed95e28357530d02cea388db1ac92ef21aa2a5b6337b",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-m22b-a.stp",
+      "size_bytes": 31154,
+      "sha256_before": "c80c60fa602e9f220929a698a6fde9c8907527909643f536d02f7db18781e512",
+      "sha256_after": "c80c60fa602e9f220929a698a6fde9c8907527909643f536d02f7db18781e512",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-m24a-a.dwg",
+      "size_bytes": 51368,
+      "sha256_before": "310abb8368e69d7d3a5d2a9635fee92c033070019520ecde4b38f5e16731ddc0",
+      "sha256_after": "310abb8368e69d7d3a5d2a9635fee92c033070019520ecde4b38f5e16731ddc0",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-m24a-a.stp",
+      "size_bytes": 41461,
+      "sha256_before": "94cb6f966aadbf658d4e74240e42419bab70fe763af110ed02780bb5c587dc88",
+      "sha256_after": "94cb6f966aadbf658d4e74240e42419bab70fe763af110ed02780bb5c587dc88",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-m24b-a.dwg",
+      "size_bytes": 63748,
+      "sha256_before": "6e122a1aa813d6ef4aff4ffb68af3ae74391ff9c6f75f7ef837f1d127cfd6e83",
+      "sha256_after": "6e122a1aa813d6ef4aff4ffb68af3ae74391ff9c6f75f7ef837f1d127cfd6e83",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-m24b-a.stp",
+      "size_bytes": 68441,
+      "sha256_before": "5db5fff6c93c87097f737094489f4ffcf5976a25ba2c343f9f904bf41a5033e6",
+      "sha256_after": "5db5fff6c93c87097f737094489f4ffcf5976a25ba2c343f9f904bf41a5033e6",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-m25a-a.dwg",
+      "size_bytes": 58214,
+      "sha256_before": "ecb3b631f45119ebb0493c9fff019b8061cefc3f9612ccab8c48518c4b56666c",
+      "sha256_after": "ecb3b631f45119ebb0493c9fff019b8061cefc3f9612ccab8c48518c4b56666c",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-m25a-a.stp",
+      "size_bytes": 56347,
+      "sha256_before": "49ae2aeebdbe525de3bd81e7c9612f3df7c1d2e6205c9e946e495605c64ac017",
+      "sha256_after": "49ae2aeebdbe525de3bd81e7c9612f3df7c1d2e6205c9e946e495605c64ac017",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-m26a-a.dwg",
+      "size_bytes": 58977,
+      "sha256_before": "f2bf07b59f3560d2bf28cb5742a946858a13ded9c697389d5055536a4f1446e4",
+      "sha256_after": "f2bf07b59f3560d2bf28cb5742a946858a13ded9c697389d5055536a4f1446e4",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张/smx0100-m26a-a.stp",
+      "size_bytes": 63665,
+      "sha256_before": "83319576aaf9886ff76083db4dd586f512dcc3a9a7bed9ac33c020b8bc171615",
+      "sha256_after": "83319576aaf9886ff76083db4dd586f512dcc3a9a7bed9ac33c020b8bc171615",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张_dxf/smx0100-e01a-a.dxf",
+      "size_bytes": 849011,
+      "sha256_before": "55b99ff4d0956111241e5cd1492f65fa938c7bc40ce1bf52e27dee87043c7d80",
+      "sha256_after": "55b99ff4d0956111241e5cd1492f65fa938c7bc40ce1bf52e27dee87043c7d80",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张_dxf/smx0100-e02a-a.dxf",
+      "size_bytes": 754852,
+      "sha256_before": "76328c65da7afb6ab79c0881f84bbf6938b4147de2b3e5147e37c4cfaf3f658d",
+      "sha256_after": "76328c65da7afb6ab79c0881f84bbf6938b4147de2b3e5147e37c4cfaf3f658d",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张_dxf/smx0100-f03b-a.dxf",
+      "size_bytes": 767201,
+      "sha256_before": "c05f0a256b918ab356df97e85f5a7942f51a96c127ab65b24fda468ddbd3aae7",
+      "sha256_after": "c05f0a256b918ab356df97e85f5a7942f51a96c127ab65b24fda468ddbd3aae7",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张_dxf/smx0100-f04b-a.dxf",
+      "size_bytes": 1002530,
+      "sha256_before": "06cbb9b55515dfa2ecdc72e3141b07eb1d42d59a3e9fcf87604f59a270ca6c89",
+      "sha256_after": "06cbb9b55515dfa2ecdc72e3141b07eb1d42d59a3e9fcf87604f59a270ca6c89",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张_dxf/smx0100-f20a-a.dxf",
+      "size_bytes": 759692,
+      "sha256_before": "21bdeae36baf35d9c6bfc06272fae809fc06497ed56012968ab71252ba07fbaf",
+      "sha256_after": "21bdeae36baf35d9c6bfc06272fae809fc06497ed56012968ab71252ba07fbaf",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张_dxf/smx0100-f21a-a.dxf",
+      "size_bytes": 831960,
+      "sha256_before": "3107cd47c1ae21db8c5671f4690c6e5fa2f87eec94d022fe915564d468d1b200",
+      "sha256_after": "3107cd47c1ae21db8c5671f4690c6e5fa2f87eec94d022fe915564d468d1b200",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张_dxf/smx0100-f22a-a.dxf",
+      "size_bytes": 791006,
+      "sha256_before": "489c882b84b863ebe7953bc8dc3d20762d010ec8b3985a06a58833b54f3d29e7",
+      "sha256_after": "489c882b84b863ebe7953bc8dc3d20762d010ec8b3985a06a58833b54f3d29e7",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张_dxf/smx0100-m02b-a.dxf",
+      "size_bytes": 1018687,
+      "sha256_before": "97687fda3f1b24c58996f8d5655e115134b2f5405d16c61c15e9b4bef3264c45",
+      "sha256_after": "97687fda3f1b24c58996f8d5655e115134b2f5405d16c61c15e9b4bef3264c45",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张_dxf/smx0100-m03b-a.dxf",
+      "size_bytes": 867932,
+      "sha256_before": "bd5f170983e7145707c74eb591a599751e42ec206d5d37442472138d5439433d",
+      "sha256_after": "bd5f170983e7145707c74eb591a599751e42ec206d5d37442472138d5439433d",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张_dxf/smx0100-m20a-a.dxf",
+      "size_bytes": 1366368,
+      "sha256_before": "cf49214646af280841f0ff94959d9e031f5ba81ee0af2f17be08d3b84c209091",
+      "sha256_after": "cf49214646af280841f0ff94959d9e031f5ba81ee0af2f17be08d3b84c209091",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张_dxf/smx0100-m21a-a.dxf",
+      "size_bytes": 813066,
+      "sha256_before": "ad7627c414d1e4aec15d79b6364befb360ae8e9047595264c47ae50686630e3e",
+      "sha256_after": "ad7627c414d1e4aec15d79b6364befb360ae8e9047595264c47ae50686630e3e",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张_dxf/smx0100-m21b-a.dxf",
+      "size_bytes": 938447,
+      "sha256_before": "b705b7e88e223dbe9ed2a9db6f78a47988b75210aa9da07076c2c1f128516e2d",
+      "sha256_after": "b705b7e88e223dbe9ed2a9db6f78a47988b75210aa9da07076c2c1f128516e2d",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张_dxf/smx0100-m22a-a.dxf",
+      "size_bytes": 597466,
+      "sha256_before": "46ad0734a22b1f9fa81a2d3954dda3f8c9355e7209305dc68e8db7af9a508393",
+      "sha256_after": "46ad0734a22b1f9fa81a2d3954dda3f8c9355e7209305dc68e8db7af9a508393",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张_dxf/smx0100-m22b-a.dxf",
+      "size_bytes": 612809,
+      "sha256_before": "472354b5c4640a9f1b062d0c052ce35aef97121395423617371991a803f79a85",
+      "sha256_after": "472354b5c4640a9f1b062d0c052ce35aef97121395423617371991a803f79a85",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张_dxf/smx0100-m24a-a.dxf",
+      "size_bytes": 630720,
+      "sha256_before": "fb173d29a8771aa78e03ab0918bfeeaa1747df388180c320c292b929fe443b98",
+      "sha256_after": "fb173d29a8771aa78e03ab0918bfeeaa1747df388180c320c292b929fe443b98",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张_dxf/smx0100-m24b-a.dxf",
+      "size_bytes": 692968,
+      "sha256_before": "7ccd7be1fd668b6b2a9afa1ead083d14f01d76930730e9675b00d2ff4940cc40",
+      "sha256_after": "7ccd7be1fd668b6b2a9afa1ead083d14f01d76930730e9675b00d2ff4940cc40",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张_dxf/smx0100-m25a-a.dxf",
+      "size_bytes": 672434,
+      "sha256_before": "6f2a106c4e7d428ec990a84cc66e524db8397e01657431943483787dd14b1ed2",
+      "sha256_after": "6f2a106c4e7d428ec990a84cc66e524db8397e01657431943483787dd14b1ed2",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/SMX0100图档18张_dxf/smx0100-m26a-a.dxf",
+      "size_bytes": 678145,
+      "sha256_before": "6c691e6f9154210f2511e727fbf641e2eeba34243acf6d34bfc933b79a49b2eb",
+      "sha256_after": "6c691e6f9154210f2511e727fbf641e2eeba34243acf6d34bfc933b79a49b2eb",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/manufacturing/CMY1000A-详细工艺工时.xls",
+      "size_bytes": 107520,
+      "sha256_before": "da3a8296301f37018b162ec204bb7699dac4963bec588baf00478f08a14ea151",
+      "sha256_after": "da3a8296301f37018b162ec204bb7699dac4963bec588baf00478f08a14ea151",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/manufacturing/SMX0100-详细工艺工时.xls",
+      "size_bytes": 41472,
+      "sha256_before": "95a8e701ef8398ed09b84f190e9698017087a90229dcf83a2215bebe4f58f63a",
+      "sha256_after": "95a8e701ef8398ed09b84f190e9698017087a90229dcf83a2215bebe4f58f63a",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "size_bytes": 12068,
+      "sha256_before": "4a74dfd8a83d7e64ca640a386220cf9b0f03962ffdf1e742b8a189f1659b3dab",
+      "sha256_after": "4a74dfd8a83d7e64ca640a386220cf9b0f03962ffdf1e742b8a189f1659b3dab",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/smx0100-m26a-a/smx0100-m22a-a.dwg",
+      "size_bytes": 43390,
+      "sha256_before": "2630e2a96562689b83ecb38a894909af06ff054ab6def1f36ed9b4812040683a",
+      "sha256_after": "2630e2a96562689b83ecb38a894909af06ff054ab6def1f36ed9b4812040683a",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/smx0100-m26a-a/smx0100-m22a-a.stp",
+      "size_bytes": 23343,
+      "sha256_before": "f8b5f671c144dbe7b4a15bda4bc17bfce57849e06ef78d175d5bf02ef58d27c3",
+      "sha256_after": "f8b5f671c144dbe7b4a15bda4bc17bfce57849e06ef78d175d5bf02ef58d27c3",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/smx0100-m26a-a/smx0100-m22b-a.dwg",
+      "size_bytes": 46271,
+      "sha256_before": "e66d94ae6c8ee6cd9178ed95e28357530d02cea388db1ac92ef21aa2a5b6337b",
+      "sha256_after": "e66d94ae6c8ee6cd9178ed95e28357530d02cea388db1ac92ef21aa2a5b6337b",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/smx0100-m26a-a/smx0100-m22b-a.stp",
+      "size_bytes": 31154,
+      "sha256_before": "c80c60fa602e9f220929a698a6fde9c8907527909643f536d02f7db18781e512",
+      "sha256_after": "c80c60fa602e9f220929a698a6fde9c8907527909643f536d02f7db18781e512",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/smx0100-m26a-a/smx0100-m24a-a.dwg",
+      "size_bytes": 51368,
+      "sha256_before": "310abb8368e69d7d3a5d2a9635fee92c033070019520ecde4b38f5e16731ddc0",
+      "sha256_after": "310abb8368e69d7d3a5d2a9635fee92c033070019520ecde4b38f5e16731ddc0",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/smx0100-m26a-a/smx0100-m24a-a.stp",
+      "size_bytes": 41461,
+      "sha256_before": "94cb6f966aadbf658d4e74240e42419bab70fe763af110ed02780bb5c587dc88",
+      "sha256_after": "94cb6f966aadbf658d4e74240e42419bab70fe763af110ed02780bb5c587dc88",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/smx0100-m26a-a/smx0100-m24b-a.dwg",
+      "size_bytes": 63748,
+      "sha256_before": "6e122a1aa813d6ef4aff4ffb68af3ae74391ff9c6f75f7ef837f1d127cfd6e83",
+      "sha256_after": "6e122a1aa813d6ef4aff4ffb68af3ae74391ff9c6f75f7ef837f1d127cfd6e83",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/smx0100-m26a-a/smx0100-m24b-a.stp",
+      "size_bytes": 68441,
+      "sha256_before": "5db5fff6c93c87097f737094489f4ffcf5976a25ba2c343f9f904bf41a5033e6",
+      "sha256_after": "5db5fff6c93c87097f737094489f4ffcf5976a25ba2c343f9f904bf41a5033e6",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/smx0100-m26a-a/smx0100-m25a-a.dwg",
+      "size_bytes": 58214,
+      "sha256_before": "ecb3b631f45119ebb0493c9fff019b8061cefc3f9612ccab8c48518c4b56666c",
+      "sha256_after": "ecb3b631f45119ebb0493c9fff019b8061cefc3f9612ccab8c48518c4b56666c",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/smx0100-m26a-a/smx0100-m25a-a.stp",
+      "size_bytes": 56347,
+      "sha256_before": "49ae2aeebdbe525de3bd81e7c9612f3df7c1d2e6205c9e946e495605c64ac017",
+      "sha256_after": "49ae2aeebdbe525de3bd81e7c9612f3df7c1d2e6205c9e946e495605c64ac017",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/smx0100-m26a-a/smx0100-m26a-a.dwg",
+      "size_bytes": 58977,
+      "sha256_before": "f2bf07b59f3560d2bf28cb5742a946858a13ded9c697389d5055536a4f1446e4",
+      "sha256_after": "f2bf07b59f3560d2bf28cb5742a946858a13ded9c697389d5055536a4f1446e4",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/smx0100-m26a-a/smx0100-m26a-a.stp",
+      "size_bytes": 63665,
+      "sha256_before": "83319576aaf9886ff76083db4dd586f512dcc3a9a7bed9ac33c020b8bc171615",
+      "sha256_after": "83319576aaf9886ff76083db4dd586f512dcc3a9a7bed9ac33c020b8bc171615",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/smx0100-m26a-a-DXF/smx0100-m22a-a.dxf",
+      "size_bytes": 597466,
+      "sha256_before": "31f70173ec2e8c864967b057fec3cdbbcf1d3da4fbda9c08d42970a3646a23b6",
+      "sha256_after": "31f70173ec2e8c864967b057fec3cdbbcf1d3da4fbda9c08d42970a3646a23b6",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/smx0100-m26a-a-DXF/smx0100-m22b-a.dxf",
+      "size_bytes": 612809,
+      "sha256_before": "179d5a56e9ce9850c8ecf16d3fab593184dde87273d07e93403a2635c900b5b6",
+      "sha256_after": "179d5a56e9ce9850c8ecf16d3fab593184dde87273d07e93403a2635c900b5b6",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/smx0100-m26a-a-DXF/smx0100-m24a-a.dxf",
+      "size_bytes": 630721,
+      "sha256_before": "bb7d178e614996489fe89f587a0ca99298106c7d069ac3a6ec9bbe6c3439f027",
+      "sha256_after": "bb7d178e614996489fe89f587a0ca99298106c7d069ac3a6ec9bbe6c3439f027",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/smx0100-m26a-a-DXF/smx0100-m24b-a.dxf",
+      "size_bytes": 692968,
+      "sha256_before": "72a680f8816ca0b3a0cbe3657094d12584d22e9989cc617716e91605fe63af1a",
+      "sha256_after": "72a680f8816ca0b3a0cbe3657094d12584d22e9989cc617716e91605fe63af1a",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/smx0100-m26a-a-DXF/smx0100-m25a-a.dxf",
+      "size_bytes": 672434,
+      "sha256_before": "a51aceb3c0fc39154d8f5aea6e2a02b7c9ddd5df76c19037b4eea934d72b7af1",
+      "sha256_after": "a51aceb3c0fc39154d8f5aea6e2a02b7c9ddd5df76c19037b4eea934d72b7af1",
+      "unchanged": true
+    },
+    {
+      "source_file": "data/raw/smx0100-m26a-a-DXF/smx0100-m26a-a.dxf",
+      "size_bytes": 678145,
+      "sha256_before": "35ee441f5297254023bc366cbbebdbaa677e0aba16e24a2c41b19ded25cc9fff",
+      "sha256_after": "35ee441f5297254023bc366cbbebdbaa677e0aba16e24a2c41b19ded25cc9fff",
+      "unchanged": true
+    },
+    {
+      "source_file": "doc/cad_pipeline_design.md",
+      "size_bytes": 9770,
+      "sha256_before": "b96a6775cdbf6d1f77c74130948f4bc5234688b6a2edc279c74d12fa0335b45f",
+      "sha256_after": "b96a6775cdbf6d1f77c74130948f4bc5234688b6a2edc279c74d12fa0335b45f",
+      "unchanged": true
+    },
+    {
+      "source_file": "doc/customer_requirement.md",
+      "size_bytes": 828,
+      "sha256_before": "9f7314447848a4c9eda7818d55b9fb8a6d7093fe5f02435fa7c8f2356901495d",
+      "sha256_after": "9f7314447848a4c9eda7818d55b9fb8a6d7093fe5f02435fa7c8f2356901495d",
+      "unchanged": true
+    },
+    {
+      "source_file": "doc/project_understanding.md",
+      "size_bytes": 14019,
+      "sha256_before": "6ae2439b50dc5d4e862858a7d38025f5ae03b389123bda03263c0fc05e475e96",
+      "sha256_after": "6ae2439b50dc5d4e862858a7d38025f5ae03b389123bda03263c0fc05e475e96",
+      "unchanged": true
+    },
+    {
+      "source_file": "doc/机加图档工艺工时说明.pptx",
+      "size_bytes": 2006771,
+      "sha256_before": "19ccadd2d998dc88438cd78cf18665ae7db29eb5afa43379b3dfea6ba2ef2ab0",
+      "sha256_after": "19ccadd2d998dc88438cd78cf18665ae7db29eb5afa43379b3dfea6ba2ef2ab0",
+      "unchanged": true
+    },
+    {
+      "source_file": "doc/模具零部件加工成本评估需求说明.pdf",
+      "size_bytes": 800969,
+      "sha256_before": "0b4a997478af99ebd07352425b24033a7c490b45d047abe89069cb868650fb59",
+      "sha256_after": "0b4a997478af99ebd07352425b24033a7c490b45d047abe89069cb868650fb59",
+      "unchanged": true
+    }
+  ]
+}

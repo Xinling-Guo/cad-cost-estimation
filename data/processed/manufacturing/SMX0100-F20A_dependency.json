@@ -1,0 +1,316 @@
+{
+  "parent_id": "SMX0100-F20A",
+  "status": "PPT-verified relationship; cost attribution pending",
+  "electrode_part_ids": [
+    "SMX0100-F20A=1=3",
+    "SMX0100-F20A=2=3"
+  ],
+  "nodes": [
+    {
+      "id": "SMX0100-详细工艺工时.xls::模具进度查询::R28",
+      "part_id": "SMX0100-F20A",
+      "sequence": 1,
+      "process_code": "MS2",
+      "time_raw": "4",
+      "time_numeric": 4.0,
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/SMX0100-详细工艺工时.xls",
+      "sheet": "模具进度查询",
+      "row_number": 28,
+      "role": "body_operation"
+    },
+    {
+      "id": "SMX0100-详细工艺工时.xls::模具进度查询::R29",
+      "part_id": "SMX0100-F20A",
+      "sequence": 2,
+      "process_code": "TG2",
+      "time_raw": "2.5",
+      "time_numeric": 2.5,
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/SMX0100-详细工艺工时.xls",
+      "sheet": "模具进度查询",
+      "row_number": 29,
+      "role": "body_operation"
+    },
+    {
+      "id": "SMX0100-详细工艺工时.xls::模具进度查询::R30",
+      "part_id": "SMX0100-F20A",
+      "sequence": 3,
+      "process_code": "EDM1",
+      "time_raw": "4",
+      "time_numeric": 4.0,
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/SMX0100-详细工艺工时.xls",
+      "sheet": "模具进度查询",
+      "row_number": 30,
+      "role": "body_operation"
+    },
+    {
+      "id": "SMX0100-详细工艺工时.xls::模具进度查询::R31",
+      "part_id": "SMX0100-F20A",
+      "sequence": 4,
+      "process_code": "EDM2",
+      "time_raw": "0",
+      "time_numeric": 0.0,
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/SMX0100-详细工艺工时.xls",
+      "sheet": "模具进度查询",
+      "row_number": 31,
+      "role": "body_operation"
+    },
+    {
+      "id": "SMX0100-详细工艺工时.xls::模具进度查询::R101",
+      "part_id": "SMX0100-F20A=1=3",
+      "sequence": 1,
+      "process_code": "CNC3",
+      "time_raw": "1.5",
+      "time_numeric": 1.5,
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/SMX0100-详细工艺工时.xls",
+      "sheet": "模具进度查询",
+      "row_number": 101,
+      "role": "electrode_manufacture"
+    },
+    {
+      "id": "SMX0100-详细工艺工时.xls::模具进度查询::R102",
+      "part_id": "SMX0100-F20A=1=3",
+      "sequence": 2,
+      "process_code": "CNC3",
+      "time_raw": "1.5",
+      "time_numeric": 1.5,
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/SMX0100-详细工艺工时.xls",
+      "sheet": "模具进度查询",
+      "row_number": 102,
+      "role": "electrode_manufacture"
+    },
+    {
+      "id": "SMX0100-详细工艺工时.xls::模具进度查询::R103",
+      "part_id": "SMX0100-F20A=1=3",
+      "sequence": 3,
+      "process_code": "EDM2",
+      "time_raw": "3.5",
+      "time_numeric": 3.5,
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/SMX0100-详细工艺工时.xls",
+      "sheet": "模具进度查询",
+      "row_number": 103,
+      "role": "electrode_discharge"
+    },
+    {
+      "id": "SMX0100-详细工艺工时.xls::模具进度查询::R104",
+      "part_id": "SMX0100-F20A=2=3",
+      "sequence": 1,
+      "process_code": "CNC3",
+      "time_raw": "0.7",
+      "time_numeric": 0.7,
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/SMX0100-详细工艺工时.xls",
+      "sheet": "模具进度查询",
+      "row_number": 104,
+      "role": "electrode_manufacture"
+    },
+    {
+      "id": "SMX0100-详细工艺工时.xls::模具进度查询::R105",
+      "part_id": "SMX0100-F20A=2=3",
+      "sequence": 2,
+      "process_code": "EDM2",
+      "time_raw": "2",
+      "time_numeric": 2.0,
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/SMX0100-详细工艺工时.xls",
+      "sheet": "模具进度查询",
+      "row_number": 105,
+      "role": "electrode_discharge"
+    }
+  ],
+  "edges": [
+    {
+      "from": "SMX0100-详细工艺工时.xls::模具进度查询::R28",
+      "to": "SMX0100-详细工艺工时.xls::模具进度查询::R29",
+      "relation": "source_sequence",
+      "evidence": "PPT slide 4; worksheet row order",
+      "confirmed_for_case": true
+    },
+    {
+      "from": "SMX0100-详细工艺工时.xls::模具进度查询::R29",
+      "to": "SMX0100-详细工艺工时.xls::模具进度查询::R30",
+      "relation": "source_sequence",
+      "evidence": "PPT slide 4; worksheet row order",
+      "confirmed_for_case": true
+    },
+    {
+      "from": "SMX0100-详细工艺工时.xls::模具进度查询::R30",
+      "to": "SMX0100-详细工艺工时.xls::模具进度查询::R31",
+      "relation": "source_sequence",
+      "evidence": "PPT slide 4; worksheet row order",
+      "confirmed_for_case": true
+    },
+    {
+      "from": "SMX0100-详细工艺工时.xls::模具进度查询::R101",
+      "to": "SMX0100-详细工艺工时.xls::模具进度查询::R102",
+      "relation": "source_sequence",
+      "evidence": "PPT slide 4; worksheet row order",
+      "confirmed_for_case": true
+    },
+    {
+      "from": "SMX0100-详细工艺工时.xls::模具进度查询::R102",
+      "to": "SMX0100-详细工艺工时.xls::模具进度查询::R103",
+      "relation": "source_sequence",
+      "evidence": "PPT slide 4; worksheet row order",
+      "confirmed_for_case": true
+    },
+    {
+      "from": "SMX0100-详细工艺工时.xls::模具进度查询::R104",
+      "to": "SMX0100-详细工艺工时.xls::模具进度查询::R105",
+      "relation": "source_sequence",
+      "evidence": "PPT slide 4; worksheet row order",
+      "confirmed_for_case": true
+    },
+    {
+      "from": "SMX0100-详细工艺工时.xls::模具进度查询::R103",
+      "to": "SMX0100-详细工艺工时.xls::模具进度查询::R31",
+      "relation": "discharge_detail_of",
+      "evidence": "PPT slide 5 explicit F20A explanation",
+      "confirmed_for_case": true
+    },
+    {
+      "from": "SMX0100-详细工艺工时.xls::模具进度查询::R105",
+      "to": "SMX0100-详细工艺工时.xls::模具进度查询::R31",
+      "relation": "discharge_detail_of",
+      "evidence": "PPT slide 5 explicit F20A explanation",
+      "confirmed_for_case": true
+    },
+    {
+      "from": "SMX0100-详细工艺工时.xls::模具进度查询::R102",
+      "to": "SMX0100-详细工艺工时.xls::模具进度查询::R31",
+      "relation": "electrode_ready_for_EDM2",
+      "evidence": "PPT slide 5 diagram",
+      "confirmed_for_case": true
+    },
+    {
+      "from": "SMX0100-详细工艺工时.xls::模具进度查询::R104",
+      "to": "SMX0100-详细工艺工时.xls::模具进度查询::R31",
+      "relation": "electrode_ready_for_EDM2",
+      "evidence": "PPT slide 5 diagram",
+      "confirmed_for_case": true
+    }
+  ],
+  "ledger": [
+    {
+      "record_id": "SMX0100-详细工艺工时.xls::模具进度查询::R28",
+      "part_id": "SMX0100-F20A",
+      "row_number": 28,
+      "process_code": "MS2",
+      "time_numeric": 4.0,
+      "role": "body_operation",
+      "cost_owner": "unconfirmed",
+      "time_nature": "quota; actual_processing_time_unconfirmed"
+    },
+    {
+      "record_id": "SMX0100-详细工艺工时.xls::模具进度查询::R29",
+      "part_id": "SMX0100-F20A",
+      "row_number": 29,
+      "process_code": "TG2",
+      "time_numeric": 2.5,
+      "role": "body_operation",
+      "cost_owner": "unconfirmed",
+      "time_nature": "quota; actual_processing_time_unconfirmed"
+    },
+    {
+      "record_id": "SMX0100-详细工艺工时.xls::模具进度查询::R30",
+      "part_id": "SMX0100-F20A",
+      "row_number": 30,
+      "process_code": "EDM1",
+      "time_numeric": 4.0,
+      "role": "body_operation",
+      "cost_owner": "unconfirmed",
+      "time_nature": "quota; actual_processing_time_unconfirmed"
+    },
+    {
+      "record_id": "SMX0100-详细工艺工时.xls::模具进度查询::R31",
+      "part_id": "SMX0100-F20A",
+      "row_number": 31,
+      "process_code": "EDM2",
+      "time_numeric": 0.0,
+      "role": "body_operation",
+      "cost_owner": "unconfirmed",
+      "time_nature": "quota; actual_processing_time_unconfirmed"
+    },
+    {
+      "record_id": "SMX0100-详细工艺工时.xls::模具进度查询::R101",
+      "part_id": "SMX0100-F20A=1=3",
+      "row_number": 101,
+      "process_code": "CNC3",
+      "time_numeric": 1.5,
+      "role": "electrode_manufacture",
+      "cost_owner": "unconfirmed",
+      "time_nature": "quota; actual_processing_time_unconfirmed"
+    },
+    {
+      "record_id": "SMX0100-详细工艺工时.xls::模具进度查询::R102",
+      "part_id": "SMX0100-F20A=1=3",
+      "row_number": 102,
+      "process_code": "CNC3",
+      "time_numeric": 1.5,
+      "role": "electrode_manufacture",
+      "cost_owner": "unconfirmed",
+      "time_nature": "quota; actual_processing_time_unconfirmed"
+    },
+    {
+      "record_id": "SMX0100-详细工艺工时.xls::模具进度查询::R103",
+      "part_id": "SMX0100-F20A=1=3",
+      "row_number": 103,
+      "process_code": "EDM2",
+      "time_numeric": 3.5,
+      "role": "electrode_discharge",
+      "cost_owner": "unconfirmed",
+      "time_nature": "quota; actual_processing_time_unconfirmed"
+    },
+    {
+      "record_id": "SMX0100-详细工艺工时.xls::模具进度查询::R104",
+      "part_id": "SMX0100-F20A=2=3",
+      "row_number": 104,
+      "process_code": "CNC3",
+      "time_numeric": 0.7,
+      "role": "electrode_manufacture",
+      "cost_owner": "unconfirmed",
+      "time_nature": "quota; actual_processing_time_unconfirmed"
+    },
+    {
+      "record_id": "SMX0100-详细工艺工时.xls::模具进度查询::R105",
+      "part_id": "SMX0100-F20A=2=3",
+      "row_number": 105,
+      "process_code": "EDM2",
+      "time_numeric": 2.0,
+      "role": "electrode_discharge",
+      "cost_owner": "unconfirmed",
+      "time_nature": "quota; actual_processing_time_unconfirmed"
+    }
+  ],
+  "branch_completeness": [
+    {
+      "electrode_part_id": "SMX0100-F20A=1=3",
+      "has_manufacturing_record": true,
+      "has_discharge_record": true,
+      "source_rows": [
+        101,
+        102,
+        103
+      ]
+    },
+    {
+      "electrode_part_id": "SMX0100-F20A=2=3",
+      "has_manufacturing_record": true,
+      "has_discharge_record": true,
+      "source_rows": [
+        104,
+        105
+      ]
+    }
+  ],
+  "body_numeric_sum": 10.5,
+  "electrode_manufacture_numeric_sum": 3.7,
+  "electrode_discharge_numeric_sum": 5.5,
+  "distinct_source_record_numeric_sum": 19.7,
+  "source_record_count": 9,
+  "double_counted_source_records": 0,
+  "unit_evidence": "PPT slide 5 explicitly uses h for F20A",
+  "constraints": [
+    "Source sequence edges are precedence; discharge_detail_of edges are aggregation, not chronological precedence.",
+    "Do not add a recomputed body EDM2 subtotal to the original electrode EDM2 rows.",
+    "Electrode1/2 discharge scheduling, reuse, quantity, setup and cost ownership require engineer confirmation.",
+    "No actual-time label is established by the PPT."
+  ]
+}

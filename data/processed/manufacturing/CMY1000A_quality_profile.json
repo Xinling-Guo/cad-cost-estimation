@@ -1,0 +1,2057 @@
+{
+  "record_count": 783,
+  "unique_part_count": 188,
+  "primary_part_count": 179,
+  "electrode_part_count": 9,
+  "part_record_counts": {
+    "CMY1000A-D02A": 7,
+    "CMY1000A-D02B": 8,
+    "CMY1000A-D03A": 12,
+    "CMY1000A-D03B": 11,
+    "CMY1000A-D20A": 3,
+    "CMY1000A-D20B": 3,
+    "CMY1000A-D20C": 5,
+    "CMY1000A-D20D": 5,
+    "CMY1000A-D20E": 2,
+    "CMY1000A-D21A": 4,
+    "CMY1000A-D21B": 5,
+    "CMY1000A-D21C": 3,
+    "CMY1000A-D21D": 3,
+    "CMY1000A-D22A-G": 3,
+    "CMY1000A-D22H": 5,
+    "CMY1000A-D22J": 2,
+    "CMY1000A-D22K": 3,
+    "CMY1000A-D23A": 4,
+    "CMY1000A-D23B": 3,
+    "CMY1000A-D25A": 4,
+    "CMY1000A-D25B": 5,
+    "CMY1000A-D26A": 3,
+    "CMY1000A-D26B": 2,
+    "CMY1000A-D27A": 2,
+    "CMY1000A-D29C": 5,
+    "CMY1000A-D30A": 3,
+    "CMY1000A-D30B": 5,
+    "CMY1000A-D30C": 3,
+    "CMY1000A-D30D-F": 2,
+    "CMY1000A-D30H": 5,
+    "CMY1000A-D30K": 5,
+    "CMY1000A-D30M": 3,
+    "CMY1000A-D31A": 6,
+    "CMY1000A-D31A=1=3": 2,
+    "CMY1000A-D32A": 2,
+    "CMY1000A-D32B": 4,
+    "CMY1000A-D32C": 5,
+    "CMY1000A-D32D": 5,
+    "CMY1000A-D33A": 4,
+    "CMY1000A-D33B": 5,
+    "CMY1000A-D34A": 3,
+    "CMY1000A-D35A": 3,
+    "CMY1000A-D35B": 6,
+    "CMY1000A-D35C-E": 7,
+    "CMY1000A-D35C-E=1=3": 2,
+    "CMY1000A-D35F": 3,
+    "CMY1000A-D35G": 3,
+    "CMY1000A-D35H": 6,
+    "CMY1000A-D35J-L": 6,
+    "CMY1000A-D35M": 3,
+    "CMY1000A-D35N": 3,
+    "CMY1000A-D35P": 3,
+    "CMY1000A-D36A": 5,
+    "CMY1000A-D36B": 5,
+    "CMY1000A-D36C": 4,
+    "CMY1000A-D36C=1=3": 2,
+    "CMY1000A-D36D": 3,
+    "CMY1000A-D36E": 5,
+    "CMY1000A-D36F": 5,
+    "CMY1000A-D36G": 4,
+    "CMY1000A-D36H": 3,
+    "CMY1000A-D36J": 3,
+    "CMY1000A-D37A": 3,
+    "CMY1000A-D37B": 3,
+    "CMY1000A-D37C": 3,
+    "CMY1000A-D37D": 5,
+    "CMY1000A-D37E": 5,
+    "CMY1000A-D37F": 5,
+    "CMY1000A-D37G": 5,
+    "CMY1000A-D37H": 6,
+    "CMY1000A-D37J": 4,
+    "CMY1000A-D37K": 4,
+    "CMY1000A-D37M": 6,
+    "CMY1000A-D37Q": 4,
+    "CMY1000A-D37R": 4,
+    "CMY1000A-D37S": 4,
+    "CMY1000A-D37T": 4,
+    "CMY1000A-D37U": 4,
+    "CMY1000A-D37V": 3,
+    "CMY1000A-D38A": 6,
+    "CMY1000A-D38B": 6,
+    "CMY1000A-D38C": 6,
+    "CMY1000A-D38C=1=3": 2,
+    "CMY1000A-D38D": 3,
+    "CMY1000A-D38E": 2,
+    "CMY1000A-D39A": 5,
+    "CMY1000A-D39A=1=3": 2,
+    "CMY1000A-D39B": 5,
+    "CMY1000A-D39B=1=3": 2,
+    "CMY1000A-D39C": 5,
+    "CMY1000A-D39D": 5,
+    "CMY1000A-D40A": 3,
+    "CMY1000A-D40B": 2,
+    "CMY1000A-P02A": 7,
+    "CMY1000A-P02B": 8,
+    "CMY1000A-P03A": 10,
+    "CMY1000A-P03B": 10,
+    "CMY1000A-P20A-B": 2,
+    "CMY1000A-P21A": 4,
+    "CMY1000A-P21B": 4,
+    "CMY1000A-P21C": 4,
+    "CMY1000A-P21D": 4,
+    "CMY1000A-P21E": 4,
+    "CMY1000A-P21F": 4,
+    "CMY1000A-P21G": 4,
+    "CMY1000A-P21H": 4,
+    "CMY1000A-P23A": 4,
+    "CMY1000A-P23B": 3,
+    "CMY1000A-P25A": 2,
+    "CMY1000A-P25B": 2,
+    "CMY1000A-P25C": 3,
+    "CMY1000A-P30A": 4,
+    "CMY1000A-P30B": 4,
+    "CMY1000A-P30C": 4,
+    "CMY1000A-P31C": 3,
+    "CMY1000A-P32B": 2,
+    "CMY1000A-P32C": 4,
+    "CMY1000A-P32D": 3,
+    "CMY1000A-P33B": 3,
+    "CMY1000A-P33C": 4,
+    "CMY1000A-P33D": 3,
+    "CMY1000A-P34A": 5,
+    "CMY1000A-P34B": 4,
+    "CMY1000A-P34C": 3,
+    "CMY1000A-P35A": 6,
+    "CMY1000A-P35B": 6,
+    "CMY1000A-P36A": 5,
+    "CMY1000A-P36B": 4,
+    "CMY1000A-P36C": 4,
+    "CMY1000A-P36D": 5,
+    "CMY1000A-P36E": 4,
+    "CMY1000A-P37A": 4,
+    "CMY1000A-P37B": 4,
+    "CMY1000A-P37C": 4,
+    "CMY1000A-P37D": 5,
+    "CMY1000A-P37E": 5,
+    "CMY1000A-P37F": 5,
+    "CMY1000A-P37G": 5,
+    "CMY1000A-P37M": 4,
+    "CMY1000A-P37N": 4,
+    "CMY1000A-P37P": 4,
+    "CMY1000A-P37Q": 4,
+    "CMY1000A-P37R": 3,
+    "CMY1000A-P38A": 6,
+    "CMY1000A-P38B": 6,
+    "CMY1000A-P39A": 3,
+    "CMY1000A-P39B": 2,
+    "CMY1000A-S01A": 11,
+    "CMY1000A-S01B": 11,
+    "CMY1000A-S02A": 7,
+    "CMY1000A-S02B": 8,
+    "CMY1000A-S20A": 3,
+    "CMY1000A-S20B": 3,
+    "CMY1000A-S21A": 5,
+    "CMY1000A-S21B": 3,
+    "CMY1000A-S22A": 4,
+    "CMY1000A-S22B": 3,
+    "CMY1000A-S23A": 2,
+    "CMY1000A-S25A": 3,
+    "CMY1000A-S26A": 3,
+    "CMY1000A-S27A": 2,
+    "CMY1000A-S28A": 2,
+    "CMY1000A-S30A": 2,
+    "CMY1000A-S31A": 4,
+    "CMY1000A-S31B": 4,
+    "CMY1000A-S31B=1=3": 2,
+    "CMY1000A-S32A": 2,
+    "CMY1000A-S32B": 4,
+    "CMY1000A-S33A*": 4,
+    "CMY1000A-S34A": 3,
+    "CMY1000A-S35A-D": 7,
+    "CMY1000A-S35A-D=1=3": 2,
+    "CMY1000A-S35E": 3,
+    "CMY1000A-S35F": 4,
+    "CMY1000A-S35G-K": 6,
+    "CMY1000A-S35L": 3,
+    "CMY1000A-S35M": 4,
+    "CMY1000A-S36A": 5,
+    "CMY1000A-S36B": 5,
+    "CMY1000A-S36C": 4,
+    "CMY1000A-S37A": 6,
+    "CMY1000A-S37B": 4,
+    "CMY1000A-S38A": 5,
+    "CMY1000A-S38B": 4,
+    "CMY1000A-S38B=1=3": 2,
+    "CMY1000A-S39A": 3,
+    "CMY1000A-S39B": 2,
+    "CMY1000A-S40A": 4
+  },
+  "process_code_counts": {
+    "CNC1": 12,
+    "CNC3": 9,
+    "CNC5": 4,
+    "DSM1": 24,
+    "DSM2": 18,
+    "EDM1": 38,
+    "EDM2": 18,
+    "EDM4": 2,
+    "EW1": 109,
+    "EW2": 12,
+    "EW3": 92,
+    "HH": 12,
+    "JG": 6,
+    "MS1": 14,
+    "MS2": 55,
+    "MS6": 16,
+    "PG2": 78,
+    "RCL": 21,
+    "STG": 8,
+    "TG2": 86,
+    "TG5": 129,
+    "TG6": 5,
+    "XC": 15
+  },
+  "code_mapping_counts": {
+    "mapped": 783
+  },
+  "unmapped_codes": [],
+  "time_status_counts": {
+    "positive": 774,
+    "zero": 9
+  },
+  "mold_id_counts": {
+    "CMY1000A": 783
+  },
+  "field_missing_counts": {
+    "模具内部编号": 0,
+    "件号": 0,
+    "零件名称": 0,
+    "工序名称": 0,
+    "工时定额": 0
+  },
+  "time_distribution": {
+    "count": 783,
+    "min": 0.0,
+    "q1": 0.5,
+    "median": 0.8,
+    "q3": 1.8,
+    "p95": 8.0,
+    "max": 72.0,
+    "numeric_sum": 2790.2,
+    "upper_iqr_fence": 3.75
+  },
+  "per_process_time_distribution": {
+    "CNC1": {
+      "count": 12,
+      "min": 2.0,
+      "q1": 3.0,
+      "median": 3.5,
+      "q3": 4.125,
+      "p95": 5.225,
+      "max": 5.5,
+      "numeric_sum": 43.4,
+      "upper_iqr_fence": 5.8125
+    },
+    "CNC3": {
+      "count": 9,
+      "min": 0.5,
+      "q1": 0.6,
+      "median": 0.7,
+      "q3": 0.8,
+      "p95": 1.2199999999999998,
+      "max": 1.5,
+      "numeric_sum": 7.0,
+      "upper_iqr_fence": 1.1
+    },
+    "CNC5": {
+      "count": 4,
+      "min": 2.0,
+      "q1": 2.0,
+      "median": 2.25,
+      "q3": 2.5,
+      "p95": 2.5,
+      "max": 2.5,
+      "numeric_sum": 9.0,
+      "upper_iqr_fence": 3.25
+    },
+    "DSM1": {
+      "count": 24,
+      "min": 0.8,
+      "q1": 0.8,
+      "median": 1.05,
+      "q3": 2.325,
+      "p95": 3.5,
+      "max": 3.5,
+      "numeric_sum": 39.3,
+      "upper_iqr_fence": 4.612500000000001
+    },
+    "DSM2": {
+      "count": 18,
+      "min": 1.3,
+      "q1": 1.5,
+      "median": 1.5,
+      "q3": 1.725,
+      "p95": 2.0449999999999995,
+      "max": 2.3,
+      "numeric_sum": 28.8,
+      "upper_iqr_fence": 2.0625
+    },
+    "EDM1": {
+      "count": 38,
+      "min": 0.8,
+      "q1": 1.85,
+      "median": 2.0,
+      "q3": 4.875,
+      "p95": 7.724999999999998,
+      "max": 10.0,
+      "numeric_sum": 124.3,
+      "upper_iqr_fence": 9.4125
+    },
+    "EDM2": {
+      "count": 18,
+      "min": 0.0,
+      "q1": 0.0,
+      "median": 0.75,
+      "q3": 2.0,
+      "p95": 2.5,
+      "max": 2.5,
+      "numeric_sum": 18.4,
+      "upper_iqr_fence": 5.0
+    },
+    "EDM4": {
+      "count": 2,
+      "min": 1.0,
+      "q1": 1.05,
+      "median": 1.1,
+      "q3": 1.15,
+      "p95": 1.19,
+      "max": 1.2,
+      "numeric_sum": 2.2,
+      "upper_iqr_fence": 1.2999999999999998
+    },
+    "EW1": {
+      "count": 109,
+      "min": 0.4,
+      "q1": 0.5,
+      "median": 0.6,
+      "q3": 1.0,
+      "p95": 1.8,
+      "max": 6.0,
+      "numeric_sum": 91.5,
+      "upper_iqr_fence": 1.75
+    },
+    "EW2": {
+      "count": 12,
+      "min": 1.5,
+      "q1": 5.75,
+      "median": 8.0,
+      "q3": 9.0,
+      "p95": 9.45,
+      "max": 10.0,
+      "numeric_sum": 82.0,
+      "upper_iqr_fence": 13.875
+    },
+    "EW3": {
+      "count": 92,
+      "min": 0.3,
+      "q1": 0.5,
+      "median": 0.8,
+      "q3": 1.0,
+      "p95": 2.2250000000000014,
+      "max": 5.0,
+      "numeric_sum": 88.5,
+      "upper_iqr_fence": 1.75
+    },
+    "HH": {
+      "count": 12,
+      "min": 8.0,
+      "q1": 8.0,
+      "median": 8.0,
+      "q3": 8.0,
+      "p95": 8.0,
+      "max": 8.0,
+      "numeric_sum": 96.0,
+      "upper_iqr_fence": 8.0
+    },
+    "JG": {
+      "count": 6,
+      "min": 4.5,
+      "q1": 4.5,
+      "median": 4.5,
+      "q3": 4.5,
+      "p95": 4.5,
+      "max": 4.5,
+      "numeric_sum": 27.0,
+      "upper_iqr_fence": 4.5
+    },
+    "MS1": {
+      "count": 14,
+      "min": 0.5,
+      "q1": 0.8,
+      "median": 0.8,
+      "q3": 1.0,
+      "p95": 1.5,
+      "max": 1.5,
+      "numeric_sum": 12.5,
+      "upper_iqr_fence": 1.2999999999999998
+    },
+    "MS2": {
+      "count": 55,
+      "min": 1.0,
+      "q1": 1.5,
+      "median": 3.0,
+      "q3": 5.5,
+      "p95": 19.749999999999993,
+      "max": 34.0,
+      "numeric_sum": 280.9,
+      "upper_iqr_fence": 11.5
+    },
+    "MS6": {
+      "count": 16,
+      "min": 1.5,
+      "q1": 3.0,
+      "median": 4.0,
+      "q3": 5.0,
+      "p95": 6.125,
+      "max": 6.5,
+      "numeric_sum": 64.0,
+      "upper_iqr_fence": 8.0
+    },
+    "PG2": {
+      "count": 78,
+      "min": 0.3,
+      "q1": 0.4,
+      "median": 0.4,
+      "q3": 0.4,
+      "p95": 2.5,
+      "max": 5.0,
+      "numeric_sum": 46.8,
+      "upper_iqr_fence": 0.4
+    },
+    "RCL": {
+      "count": 21,
+      "min": 72.0,
+      "q1": 72.0,
+      "median": 72.0,
+      "q3": 72.0,
+      "p95": 72.0,
+      "max": 72.0,
+      "numeric_sum": 1512.0,
+      "upper_iqr_fence": 72.0
+    },
+    "STG": {
+      "count": 8,
+      "min": 0.5,
+      "q1": 0.95,
+      "median": 2.75,
+      "q3": 3.5,
+      "p95": 5.449999999999998,
+      "max": 6.5,
+      "numeric_sum": 21.3,
+      "upper_iqr_fence": 7.324999999999999
+    },
+    "TG2": {
+      "count": 86,
+      "min": 0.3,
+      "q1": 0.5,
+      "median": 0.7,
+      "q3": 1.0,
+      "p95": 1.5,
+      "max": 2.5,
+      "numeric_sum": 68.9,
+      "upper_iqr_fence": 1.75
+    },
+    "TG5": {
+      "count": 129,
+      "min": 0.1,
+      "q1": 0.5,
+      "median": 0.8,
+      "q3": 1.0,
+      "p95": 1.4599999999999993,
+      "max": 3.5,
+      "numeric_sum": 107.9,
+      "upper_iqr_fence": 1.75
+    },
+    "TG6": {
+      "count": 5,
+      "min": 1.5,
+      "q1": 1.5,
+      "median": 1.5,
+      "q3": 1.5,
+      "p95": 1.9,
+      "max": 2.0,
+      "numeric_sum": 8.0,
+      "upper_iqr_fence": 1.5
+    },
+    "XC": {
+      "count": 15,
+      "min": 0.4,
+      "q1": 0.4,
+      "median": 0.4,
+      "q3": 1.0,
+      "p95": 1.6,
+      "max": 1.6,
+      "numeric_sum": 10.5,
+      "upper_iqr_fence": 1.9
+    }
+  },
+  "anomalies": [
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R18",
+      "part_id": "CMY1000A-P21A",
+      "process_code": "EW1",
+      "row_number": 18,
+      "time_raw": "6",
+      "reasons": [
+        "above_global_IQR_fence",
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R20",
+      "part_id": "CMY1000A-P21A",
+      "process_code": "STG",
+      "row_number": 20,
+      "time_raw": "6.5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R21",
+      "part_id": "CMY1000A-P21A",
+      "process_code": "PG2",
+      "row_number": 21,
+      "time_raw": "5",
+      "reasons": [
+        "above_global_IQR_fence",
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R22",
+      "part_id": "CMY1000A-P21B",
+      "process_code": "EW1",
+      "row_number": 22,
+      "time_raw": "2",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R25",
+      "part_id": "CMY1000A-P21B",
+      "process_code": "PG2",
+      "row_number": 25,
+      "time_raw": "2.5",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R29",
+      "part_id": "CMY1000A-P21C",
+      "process_code": "PG2",
+      "row_number": 29,
+      "time_raw": "2.5",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R33",
+      "part_id": "CMY1000A-P21D",
+      "process_code": "PG2",
+      "row_number": 33,
+      "time_raw": "2.5",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R37",
+      "part_id": "CMY1000A-P21E",
+      "process_code": "PG2",
+      "row_number": 37,
+      "time_raw": "1",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R41",
+      "part_id": "CMY1000A-P21F",
+      "process_code": "PG2",
+      "row_number": 41,
+      "time_raw": "1",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R45",
+      "part_id": "CMY1000A-P21G",
+      "process_code": "PG2",
+      "row_number": 45,
+      "time_raw": "1",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R49",
+      "part_id": "CMY1000A-P21H",
+      "process_code": "PG2",
+      "row_number": 49,
+      "time_raw": "0.8",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R92",
+      "part_id": "CMY1000A-P02A",
+      "process_code": "RCL",
+      "row_number": 92,
+      "time_raw": "72",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R94",
+      "part_id": "CMY1000A-P02A",
+      "process_code": "HH",
+      "row_number": 94,
+      "time_raw": "8",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R99",
+      "part_id": "CMY1000A-P02B",
+      "process_code": "RCL",
+      "row_number": 99,
+      "time_raw": "72",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R101",
+      "part_id": "CMY1000A-P02B",
+      "process_code": "HH",
+      "row_number": 101,
+      "time_raw": "8",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R107",
+      "part_id": "CMY1000A-P03A",
+      "process_code": "RCL",
+      "row_number": 107,
+      "time_raw": "72",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R109",
+      "part_id": "CMY1000A-P03A",
+      "process_code": "EW2",
+      "row_number": 109,
+      "time_raw": "9",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R110",
+      "part_id": "CMY1000A-P03A",
+      "process_code": "HH",
+      "row_number": 110,
+      "time_raw": "8",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R112",
+      "part_id": "CMY1000A-P03A",
+      "process_code": "JG",
+      "row_number": 112,
+      "time_raw": "4.5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R113",
+      "part_id": "CMY1000A-P03A",
+      "process_code": "MS2",
+      "row_number": 113,
+      "time_raw": "12.5",
+      "reasons": [
+        "above_global_IQR_fence",
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R117",
+      "part_id": "CMY1000A-P03B",
+      "process_code": "RCL",
+      "row_number": 117,
+      "time_raw": "72",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R119",
+      "part_id": "CMY1000A-P03B",
+      "process_code": "EW2",
+      "row_number": 119,
+      "time_raw": "8",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R120",
+      "part_id": "CMY1000A-P03B",
+      "process_code": "HH",
+      "row_number": 120,
+      "time_raw": "8",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R122",
+      "part_id": "CMY1000A-P03B",
+      "process_code": "JG",
+      "row_number": 122,
+      "time_raw": "4.5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R123",
+      "part_id": "CMY1000A-P03B",
+      "process_code": "MS2",
+      "row_number": 123,
+      "time_raw": "14",
+      "reasons": [
+        "above_global_IQR_fence",
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R127",
+      "part_id": "CMY1000A-S02A",
+      "process_code": "RCL",
+      "row_number": 127,
+      "time_raw": "72",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R129",
+      "part_id": "CMY1000A-S02A",
+      "process_code": "HH",
+      "row_number": 129,
+      "time_raw": "8",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R130",
+      "part_id": "CMY1000A-S02A",
+      "process_code": "EW2",
+      "row_number": 130,
+      "time_raw": "6",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R135",
+      "part_id": "CMY1000A-S02B",
+      "process_code": "RCL",
+      "row_number": 135,
+      "time_raw": "72",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R137",
+      "part_id": "CMY1000A-S02B",
+      "process_code": "HH",
+      "row_number": 137,
+      "time_raw": "8",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R138",
+      "part_id": "CMY1000A-S02B",
+      "process_code": "EW2",
+      "row_number": 138,
+      "time_raw": "9",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R141",
+      "part_id": "CMY1000A-S01A",
+      "process_code": "CNC1",
+      "row_number": 141,
+      "time_raw": "5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R142",
+      "part_id": "CMY1000A-S01A",
+      "process_code": "RCL",
+      "row_number": 142,
+      "time_raw": "72",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R144",
+      "part_id": "CMY1000A-S01A",
+      "process_code": "EW2",
+      "row_number": 144,
+      "time_raw": "8",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R145",
+      "part_id": "CMY1000A-S01A",
+      "process_code": "HH",
+      "row_number": 145,
+      "time_raw": "8",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R147",
+      "part_id": "CMY1000A-S01A",
+      "process_code": "JG",
+      "row_number": 147,
+      "time_raw": "4.5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R148",
+      "part_id": "CMY1000A-S01A",
+      "process_code": "MS2",
+      "row_number": 148,
+      "time_raw": "19",
+      "reasons": [
+        "above_global_IQR_fence",
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R152",
+      "part_id": "CMY1000A-S01B",
+      "process_code": "CNC1",
+      "row_number": 152,
+      "time_raw": "5.5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R153",
+      "part_id": "CMY1000A-S01B",
+      "process_code": "RCL",
+      "row_number": 153,
+      "time_raw": "72",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R155",
+      "part_id": "CMY1000A-S01B",
+      "process_code": "EW2",
+      "row_number": 155,
+      "time_raw": "8",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R156",
+      "part_id": "CMY1000A-S01B",
+      "process_code": "HH",
+      "row_number": 156,
+      "time_raw": "8",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R158",
+      "part_id": "CMY1000A-S01B",
+      "process_code": "JG",
+      "row_number": 158,
+      "time_raw": "4.5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R159",
+      "part_id": "CMY1000A-S01B",
+      "process_code": "MS2",
+      "row_number": 159,
+      "time_raw": "21.5",
+      "reasons": [
+        "above_global_IQR_fence",
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R161",
+      "part_id": "CMY1000A-S01B",
+      "process_code": "DSM2",
+      "row_number": 161,
+      "time_raw": "2.3",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R163",
+      "part_id": "CMY1000A-D03A",
+      "process_code": "CNC1",
+      "row_number": 163,
+      "time_raw": "4",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R165",
+      "part_id": "CMY1000A-D03A",
+      "process_code": "RCL",
+      "row_number": 165,
+      "time_raw": "72",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R167",
+      "part_id": "CMY1000A-D03A",
+      "process_code": "EW2",
+      "row_number": 167,
+      "time_raw": "10",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R168",
+      "part_id": "CMY1000A-D03A",
+      "process_code": "HH",
+      "row_number": 168,
+      "time_raw": "8",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R170",
+      "part_id": "CMY1000A-D03A",
+      "process_code": "JG",
+      "row_number": 170,
+      "time_raw": "4.5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R171",
+      "part_id": "CMY1000A-D03A",
+      "process_code": "MS2",
+      "row_number": 171,
+      "time_raw": "34",
+      "reasons": [
+        "above_global_IQR_fence",
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R175",
+      "part_id": "CMY1000A-D03B",
+      "process_code": "CNC1",
+      "row_number": 175,
+      "time_raw": "4.5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R177",
+      "part_id": "CMY1000A-D03B",
+      "process_code": "RCL",
+      "row_number": 177,
+      "time_raw": "72",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R179",
+      "part_id": "CMY1000A-D03B",
+      "process_code": "EW2",
+      "row_number": 179,
+      "time_raw": "9",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R180",
+      "part_id": "CMY1000A-D03B",
+      "process_code": "HH",
+      "row_number": 180,
+      "time_raw": "8",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R182",
+      "part_id": "CMY1000A-D03B",
+      "process_code": "JG",
+      "row_number": 182,
+      "time_raw": "4.5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R183",
+      "part_id": "CMY1000A-D03B",
+      "process_code": "MS2",
+      "row_number": 183,
+      "time_raw": "33",
+      "reasons": [
+        "above_global_IQR_fence",
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R187",
+      "part_id": "CMY1000A-D02A",
+      "process_code": "RCL",
+      "row_number": 187,
+      "time_raw": "72",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R189",
+      "part_id": "CMY1000A-D02A",
+      "process_code": "HH",
+      "row_number": 189,
+      "time_raw": "8",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R190",
+      "part_id": "CMY1000A-D02A",
+      "process_code": "EW2",
+      "row_number": 190,
+      "time_raw": "7",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R194",
+      "part_id": "CMY1000A-D02B",
+      "process_code": "RCL",
+      "row_number": 194,
+      "time_raw": "72",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R196",
+      "part_id": "CMY1000A-D02B",
+      "process_code": "HH",
+      "row_number": 196,
+      "time_raw": "8",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R197",
+      "part_id": "CMY1000A-D02B",
+      "process_code": "EW2",
+      "row_number": 197,
+      "time_raw": "5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R201",
+      "part_id": "CMY1000A-D20A",
+      "process_code": "MS6",
+      "row_number": 201,
+      "time_raw": "5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R204",
+      "part_id": "CMY1000A-D20B",
+      "process_code": "MS6",
+      "row_number": 204,
+      "time_raw": "5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R208",
+      "part_id": "CMY1000A-P20A-B",
+      "process_code": "MS2",
+      "row_number": 208,
+      "time_raw": "6.5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R217",
+      "part_id": "CMY1000A-D21A",
+      "process_code": "MS6",
+      "row_number": 217,
+      "time_raw": "6.5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R219",
+      "part_id": "CMY1000A-D21A",
+      "process_code": "EDM1",
+      "row_number": 219,
+      "time_raw": "7",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R229",
+      "part_id": "CMY1000A-S21A",
+      "process_code": "MS2",
+      "row_number": 229,
+      "time_raw": "4.5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R230",
+      "part_id": "CMY1000A-S21A",
+      "process_code": "EDM1",
+      "row_number": 230,
+      "time_raw": "7.5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R232",
+      "part_id": "CMY1000A-S21B",
+      "process_code": "MS6",
+      "row_number": 232,
+      "time_raw": "6",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R234",
+      "part_id": "CMY1000A-D22A-G",
+      "process_code": "EW1",
+      "row_number": 234,
+      "time_raw": "2.5",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R235",
+      "part_id": "CMY1000A-D22A-G",
+      "process_code": "TG5",
+      "row_number": 235,
+      "time_raw": "2",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R236",
+      "part_id": "CMY1000A-D22A-G",
+      "process_code": "PG2",
+      "row_number": 236,
+      "time_raw": "3",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R266",
+      "part_id": "CMY1000A-D25A",
+      "process_code": "MS6",
+      "row_number": 266,
+      "time_raw": "4",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R275",
+      "part_id": "CMY1000A-P25C",
+      "process_code": "PG2",
+      "row_number": 275,
+      "time_raw": "0.5",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R299",
+      "part_id": "CMY1000A-D30B",
+      "process_code": "EW3",
+      "row_number": 299,
+      "time_raw": "2",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R305",
+      "part_id": "CMY1000A-D30D-F",
+      "process_code": "TG5",
+      "row_number": 305,
+      "time_raw": "2",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R308",
+      "part_id": "CMY1000A-D30H",
+      "process_code": "EW3",
+      "row_number": 308,
+      "time_raw": "2",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R311",
+      "part_id": "CMY1000A-D30K",
+      "process_code": "MS2",
+      "row_number": 311,
+      "time_raw": "5.5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R316",
+      "part_id": "CMY1000A-D30M",
+      "process_code": "MS2",
+      "row_number": 316,
+      "time_raw": "5.5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R336",
+      "part_id": "CMY1000A-D31A",
+      "process_code": "EDM2",
+      "row_number": 336,
+      "time_raw": "0",
+      "reasons": [
+        "zero"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R337",
+      "part_id": "CMY1000A-D31A",
+      "process_code": "EDM1",
+      "row_number": 337,
+      "time_raw": "4",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R349",
+      "part_id": "CMY1000A-S31B",
+      "process_code": "EDM2",
+      "row_number": 349,
+      "time_raw": "0",
+      "reasons": [
+        "zero"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R355",
+      "part_id": "CMY1000A-D32B",
+      "process_code": "EDM1",
+      "row_number": 355,
+      "time_raw": "5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R364",
+      "part_id": "CMY1000A-P32D",
+      "process_code": "PG2",
+      "row_number": 364,
+      "time_raw": "0.5",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R367",
+      "part_id": "CMY1000A-S32B",
+      "process_code": "MS1",
+      "row_number": 367,
+      "time_raw": "1.5",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R370",
+      "part_id": "CMY1000A-S32B",
+      "process_code": "EDM1",
+      "row_number": 370,
+      "time_raw": "4.5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R372",
+      "part_id": "CMY1000A-D33A",
+      "process_code": "MS6",
+      "row_number": 372,
+      "time_raw": "4",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R374",
+      "part_id": "CMY1000A-D33A",
+      "process_code": "EDM1",
+      "row_number": 374,
+      "time_raw": "10",
+      "reasons": [
+        "above_global_IQR_fence",
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R377",
+      "part_id": "CMY1000A-P33B",
+      "process_code": "PG2",
+      "row_number": 377,
+      "time_raw": "0.8",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R380",
+      "part_id": "CMY1000A-P33C",
+      "process_code": "TG6",
+      "row_number": 380,
+      "time_raw": "2",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R381",
+      "part_id": "CMY1000A-P33C",
+      "process_code": "PG2",
+      "row_number": 381,
+      "time_raw": "1",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R385",
+      "part_id": "CMY1000A-S33A*",
+      "process_code": "MS1",
+      "row_number": 385,
+      "time_raw": "1.5",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R386",
+      "part_id": "CMY1000A-S33A*",
+      "process_code": "MS6",
+      "row_number": 386,
+      "time_raw": "4",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R388",
+      "part_id": "CMY1000A-S33A*",
+      "process_code": "EDM1",
+      "row_number": 388,
+      "time_raw": "9",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R394",
+      "part_id": "CMY1000A-P34A",
+      "process_code": "TG2",
+      "row_number": 394,
+      "time_raw": "2.5",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R397",
+      "part_id": "CMY1000A-P34B",
+      "process_code": "EW1",
+      "row_number": 397,
+      "time_raw": "1.8",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R399",
+      "part_id": "CMY1000A-P34B",
+      "process_code": "RCL",
+      "row_number": 399,
+      "time_raw": "72",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R422",
+      "part_id": "CMY1000A-D35C-E",
+      "process_code": "EDM2",
+      "row_number": 422,
+      "time_raw": "0",
+      "reasons": [
+        "zero"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R444",
+      "part_id": "CMY1000A-D35N",
+      "process_code": "MS2",
+      "row_number": 444,
+      "time_raw": "5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R447",
+      "part_id": "CMY1000A-D35P",
+      "process_code": "MS2",
+      "row_number": 447,
+      "time_raw": "5.5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R465",
+      "part_id": "CMY1000A-S35A-D",
+      "process_code": "EW3",
+      "row_number": 465,
+      "time_raw": "3",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R468",
+      "part_id": "CMY1000A-S35A-D",
+      "process_code": "EDM2",
+      "row_number": 468,
+      "time_raw": "0",
+      "reasons": [
+        "zero"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R479",
+      "part_id": "CMY1000A-S35G-K",
+      "process_code": "EW3",
+      "row_number": 479,
+      "time_raw": "2",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R502",
+      "part_id": "CMY1000A-D36C",
+      "process_code": "EDM2",
+      "row_number": 502,
+      "time_raw": "0",
+      "reasons": [
+        "zero"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R520",
+      "part_id": "CMY1000A-D36H",
+      "process_code": "MS2",
+      "row_number": 520,
+      "time_raw": "6.5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R523",
+      "part_id": "CMY1000A-D36J",
+      "process_code": "MS2",
+      "row_number": 523,
+      "time_raw": "6.5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R558",
+      "part_id": "CMY1000A-S36C",
+      "process_code": "MS2",
+      "row_number": 558,
+      "time_raw": "6",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R605",
+      "part_id": "CMY1000A-D37M",
+      "process_code": "MS2",
+      "row_number": 605,
+      "time_raw": "5.5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R609",
+      "part_id": "CMY1000A-D37M",
+      "process_code": "EDM1",
+      "row_number": 609,
+      "time_raw": "6",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R611",
+      "part_id": "CMY1000A-D37Q",
+      "process_code": "MS2",
+      "row_number": 611,
+      "time_raw": "5.5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R614",
+      "part_id": "CMY1000A-D37Q",
+      "process_code": "EDM1",
+      "row_number": 614,
+      "time_raw": "5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R615",
+      "part_id": "CMY1000A-D37R",
+      "process_code": "EW1",
+      "row_number": 615,
+      "time_raw": "1.8",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R617",
+      "part_id": "CMY1000A-D37R",
+      "process_code": "RCL",
+      "row_number": 617,
+      "time_raw": "72",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R619",
+      "part_id": "CMY1000A-D37S",
+      "process_code": "EW1",
+      "row_number": 619,
+      "time_raw": "1.8",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R621",
+      "part_id": "CMY1000A-D37S",
+      "process_code": "RCL",
+      "row_number": 621,
+      "time_raw": "72",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R623",
+      "part_id": "CMY1000A-D37T",
+      "process_code": "EW1",
+      "row_number": 623,
+      "time_raw": "1.8",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R625",
+      "part_id": "CMY1000A-D37T",
+      "process_code": "RCL",
+      "row_number": 625,
+      "time_raw": "72",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R627",
+      "part_id": "CMY1000A-D37U",
+      "process_code": "EW1",
+      "row_number": 627,
+      "time_raw": "2",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R629",
+      "part_id": "CMY1000A-D37U",
+      "process_code": "RCL",
+      "row_number": 629,
+      "time_raw": "72",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R666",
+      "part_id": "CMY1000A-P37M",
+      "process_code": "EW1",
+      "row_number": 666,
+      "time_raw": "1.8",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R668",
+      "part_id": "CMY1000A-P37M",
+      "process_code": "RCL",
+      "row_number": 668,
+      "time_raw": "72",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R670",
+      "part_id": "CMY1000A-P37N",
+      "process_code": "EW1",
+      "row_number": 670,
+      "time_raw": "1.8",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R672",
+      "part_id": "CMY1000A-P37N",
+      "process_code": "RCL",
+      "row_number": 672,
+      "time_raw": "72",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R674",
+      "part_id": "CMY1000A-P37P",
+      "process_code": "EW1",
+      "row_number": 674,
+      "time_raw": "1.8",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R676",
+      "part_id": "CMY1000A-P37P",
+      "process_code": "RCL",
+      "row_number": 676,
+      "time_raw": "72",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R678",
+      "part_id": "CMY1000A-P37Q",
+      "process_code": "EW1",
+      "row_number": 678,
+      "time_raw": "1.8",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R680",
+      "part_id": "CMY1000A-P37Q",
+      "process_code": "RCL",
+      "row_number": 680,
+      "time_raw": "72",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R691",
+      "part_id": "CMY1000A-S37B",
+      "process_code": "MS2",
+      "row_number": 691,
+      "time_raw": "7",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R694",
+      "part_id": "CMY1000A-S37B",
+      "process_code": "EDM1",
+      "row_number": 694,
+      "time_raw": "5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R698",
+      "part_id": "CMY1000A-D38A",
+      "process_code": "EW3",
+      "row_number": 698,
+      "time_raw": "4",
+      "reasons": [
+        "above_global_IQR_fence",
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R700",
+      "part_id": "CMY1000A-D38A",
+      "process_code": "TG5",
+      "row_number": 700,
+      "time_raw": "3",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R704",
+      "part_id": "CMY1000A-D38B",
+      "process_code": "EW3",
+      "row_number": 704,
+      "time_raw": "2.5",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R706",
+      "part_id": "CMY1000A-D38B",
+      "process_code": "TG5",
+      "row_number": 706,
+      "time_raw": "2",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R708",
+      "part_id": "CMY1000A-D38C",
+      "process_code": "MS6",
+      "row_number": 708,
+      "time_raw": "5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R711",
+      "part_id": "CMY1000A-D38C",
+      "process_code": "EDM1",
+      "row_number": 711,
+      "time_raw": "7",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R712",
+      "part_id": "CMY1000A-D38C",
+      "process_code": "EDM2",
+      "row_number": 712,
+      "time_raw": "0",
+      "reasons": [
+        "zero"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R713",
+      "part_id": "CMY1000A-D38D",
+      "process_code": "MS2",
+      "row_number": 713,
+      "time_raw": "5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R721",
+      "part_id": "CMY1000A-P38A",
+      "process_code": "EW3",
+      "row_number": 721,
+      "time_raw": "5",
+      "reasons": [
+        "above_global_IQR_fence",
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R723",
+      "part_id": "CMY1000A-P38A",
+      "process_code": "TG5",
+      "row_number": 723,
+      "time_raw": "3.5",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R727",
+      "part_id": "CMY1000A-P38B",
+      "process_code": "EW3",
+      "row_number": 727,
+      "time_raw": "3",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R729",
+      "part_id": "CMY1000A-P38B",
+      "process_code": "TG5",
+      "row_number": 729,
+      "time_raw": "2",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R736",
+      "part_id": "CMY1000A-S38B",
+      "process_code": "MS6",
+      "row_number": 736,
+      "time_raw": "5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R738",
+      "part_id": "CMY1000A-S38B",
+      "process_code": "EDM2",
+      "row_number": 738,
+      "time_raw": "0",
+      "reasons": [
+        "zero"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R740",
+      "part_id": "CMY1000A-D39A",
+      "process_code": "MS6",
+      "row_number": 740,
+      "time_raw": "4",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R742",
+      "part_id": "CMY1000A-D39A",
+      "process_code": "EDM2",
+      "row_number": 742,
+      "time_raw": "0",
+      "reasons": [
+        "zero"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R747",
+      "part_id": "CMY1000A-D39B",
+      "process_code": "EDM2",
+      "row_number": 747,
+      "time_raw": "0",
+      "reasons": [
+        "zero"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R762",
+      "part_id": "CMY1000A-D40B",
+      "process_code": "MS2",
+      "row_number": 762,
+      "time_raw": "4",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R767",
+      "part_id": "CMY1000A-S40A",
+      "process_code": "EDM1",
+      "row_number": 767,
+      "time_raw": "5",
+      "reasons": [
+        "above_global_IQR_fence"
+      ]
+    },
+    {
+      "record_id": "CMY1000A-详细工艺工时.xls::模具进度查询::R784",
+      "part_id": "CMY1000A-D39A=1=3",
+      "process_code": "CNC3",
+      "row_number": 784,
+      "time_raw": "1.5",
+      "reasons": [
+        "above_process_IQR_fence"
+      ]
+    }
+  ],
+  "identical_row_extra_occurrences": 18,
+  "parts_with_multiple_operations": 188,
+  "all_route_orders_restorable": true,
+  "noncontiguous_routes": [],
+  "sheet_profiles": [
+    {
+      "sheet": "模具进度查询",
+      "header_row": 2,
+      "columns": [
+        "模具内部编号",
+        "件号",
+        "零件名称",
+        "工序名称",
+        "工时定额"
+      ],
+      "physical_rows": 785,
+      "data_record_count": 783,
+      "column_storage_types": {
+        "模具内部编号": {
+          "text": 783
+        },
+        "件号": {
+          "text": 783
+        },
+        "零件名称": {
+          "text": 783
+        },
+        "工序名称": {
+          "text": 783
+        },
+        "工时定额": {
+          "text": 783
+        }
+      }
+    }
+  ],
+  "time_unit": "not explicitly provided in workbook; h only demonstrated in PPT F20A example",
+  "actual_processing_time_confirmed": false,
+  "outlier_method": "linear-interpolated Q3+1.5*IQR globally and within process when n>=4; candidate only, no removal"
+}

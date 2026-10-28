@@ -1,0 +1,1199 @@
+{
+  "entries": [
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 4,
+      "code": "DSM1",
+      "description_raw": "粗加工",
+      "category": "大水磨",
+      "category_code": "DSM",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 4,
+          "source_column": 1,
+          "value": "大水磨",
+          "resolution": "original_cell"
+        },
+        {
+          "column": 2,
+          "source_row": 4,
+          "source_column": 2,
+          "value": "DSM",
+          "resolution": "original_cell"
+        }
+      ],
+      "raw_values": [
+        "大水磨",
+        "DSM",
+        "DSM1",
+        "粗加工",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 5,
+      "code": "DSM2",
+      "description_raw": "精加工",
+      "category": "大水磨",
+      "category_code": "DSM",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 4,
+          "source_column": 1,
+          "value": "大水磨",
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 4,
+          "source_column": 2,
+          "value": "DSM",
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "DSM2",
+        "精加工",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 6,
+      "code": "PG1",
+      "description_raw": "开粗（异形冲子）",
+      "category": "光曲磨",
+      "category_code": "PG",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 6,
+          "source_column": 1,
+          "value": "光曲磨",
+          "resolution": "original_cell"
+        },
+        {
+          "column": 2,
+          "source_row": 6,
+          "source_column": 2,
+          "value": "PG",
+          "resolution": "original_cell"
+        }
+      ],
+      "raw_values": [
+        "光曲磨",
+        "PG",
+        "PG1",
+        "开粗（异形冲子）",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 7,
+      "code": "PG2",
+      "description_raw": "精加工",
+      "category": "光曲磨",
+      "category_code": "PG",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 6,
+          "source_column": 1,
+          "value": "光曲磨",
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 6,
+          "source_column": 2,
+          "value": "PG",
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "PG2",
+        "精加工",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 8,
+      "code": "JG",
+      "description_raw": "坐标磨精加工",
+      "category": "坐标磨",
+      "category_code": "JG",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 8,
+          "source_column": 1,
+          "value": "坐标磨",
+          "resolution": "original_cell"
+        },
+        {
+          "column": 2,
+          "source_row": 8,
+          "source_column": 2,
+          "value": "JG",
+          "resolution": "original_cell"
+        }
+      ],
+      "raw_values": [
+        "坐标磨",
+        "JG",
+        "JG",
+        "坐标磨精加工",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 9,
+      "code": "TG1",
+      "description_raw": "下料",
+      "category": "磨床",
+      "category_code": "TG",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 9,
+          "source_column": 1,
+          "value": "磨床",
+          "resolution": "original_cell"
+        },
+        {
+          "column": 2,
+          "source_row": 9,
+          "source_column": 2,
+          "value": "TG",
+          "resolution": "original_cell"
+        }
+      ],
+      "raw_values": [
+        "磨床",
+        "TG",
+        "TG1",
+        "下料",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 10,
+      "code": "TG2",
+      "description_raw": "普通钢材一般成型加工",
+      "category": "磨床",
+      "category_code": "TG",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 9,
+          "source_column": 1,
+          "value": "磨床",
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 9,
+          "source_column": 2,
+          "value": "TG",
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "TG2",
+        "普通钢材一般成型加工",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 11,
+      "code": "TG3",
+      "description_raw": "普通钢材复杂成型加工",
+      "category": "磨床",
+      "category_code": "TG",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 9,
+          "source_column": 1,
+          "value": "磨床",
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 9,
+          "source_column": 2,
+          "value": "TG",
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "TG3",
+        "普通钢材复杂成型加工",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 12,
+      "code": "TG5",
+      "description_raw": "钨钢一般成型加工",
+      "category": "磨床",
+      "category_code": "TG",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 9,
+          "source_column": 1,
+          "value": "磨床",
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 9,
+          "source_column": 2,
+          "value": "TG",
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "TG5",
+        "钨钢一般成型加工",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 13,
+      "code": "TG6",
+      "description_raw": "钨钢复杂成型加工",
+      "category": "磨床",
+      "category_code": "TG",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 9,
+          "source_column": 1,
+          "value": "磨床",
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 9,
+          "source_column": 2,
+          "value": "TG",
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "TG6",
+        "钨钢复杂成型加工",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 14,
+      "code": "STG",
+      "description_raw": "数控磨床加工（塑模镶件主体/多件冲子加工）",
+      "category": "数控磨床",
+      "category_code": "STG",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 14,
+          "source_column": 1,
+          "value": "数控磨床",
+          "resolution": "original_cell"
+        },
+        {
+          "column": 2,
+          "source_row": 14,
+          "source_column": 2,
+          "value": "STG",
+          "resolution": "original_cell"
+        }
+      ],
+      "raw_values": [
+        "数控磨床",
+        "STG",
+        "STG",
+        "数控磨床加工（塑模镶件主体/多件冲子加工）",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 15,
+      "code": "CNC1",
+      "description_raw": "软料加工，热处理前模板.零件",
+      "category": "加工中心",
+      "category_code": "CNC",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 15,
+          "source_column": 1,
+          "value": "加工中心",
+          "resolution": "original_cell"
+        },
+        {
+          "column": 2,
+          "source_row": 15,
+          "source_column": 2,
+          "value": "CNC",
+          "resolution": "original_cell"
+        }
+      ],
+      "raw_values": [
+        "加工中心",
+        "CNC",
+        "CNC1",
+        "软料加工，热处理前模板.零件",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 16,
+      "code": "CNC2",
+      "description_raw": "石墨电极",
+      "category": "加工中心",
+      "category_code": "CNC",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 15,
+          "source_column": 1,
+          "value": "加工中心",
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 15,
+          "source_column": 2,
+          "value": "CNC",
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "CNC2",
+        "石墨电极",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 17,
+      "code": "CNC3",
+      "description_raw": "铜电极",
+      "category": "加工中心",
+      "category_code": "CNC",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 15,
+          "source_column": 1,
+          "value": "加工中心",
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 15,
+          "source_column": 2,
+          "value": "CNC",
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "CNC3",
+        "铜电极",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 18,
+      "code": "CNC4",
+      "description_raw": "塑模主体开粗（热处理前）",
+      "category": "加工中心",
+      "category_code": "CNC",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 15,
+          "source_column": 1,
+          "value": "加工中心",
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 15,
+          "source_column": 2,
+          "value": "CNC",
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "CNC4",
+        "塑模主体开粗（热处理前）",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 19,
+      "code": "CNC5",
+      "description_raw": "硬料精加工",
+      "category": "加工中心",
+      "category_code": "CNC",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 15,
+          "source_column": 1,
+          "value": "加工中心",
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 15,
+          "source_column": 2,
+          "value": "CNC",
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "CNC5",
+        "硬料精加工",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 20,
+      "code": "XC",
+      "description_raw": "软料加工",
+      "category": "铣床",
+      "category_code": "XC",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 20,
+          "source_column": 1,
+          "value": "铣床",
+          "resolution": "original_cell"
+        },
+        {
+          "column": 2,
+          "source_row": 20,
+          "source_column": 2,
+          "value": "XC",
+          "resolution": "original_cell"
+        }
+      ],
+      "raw_values": [
+        "铣床",
+        "XC",
+        "XC",
+        "软料加工",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 21,
+      "code": "EW1",
+      "description_raw": "下料",
+      "category": "线切割",
+      "category_code": "EW",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 21,
+          "source_column": 1,
+          "value": "线切割",
+          "resolution": "original_cell"
+        },
+        {
+          "column": 2,
+          "source_row": 21,
+          "source_column": 2,
+          "value": "EW",
+          "resolution": "original_cell"
+        }
+      ],
+      "raw_values": [
+        "线切割",
+        "EW",
+        "EW1",
+        "下料",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 22,
+      "code": "EW2",
+      "description_raw": "模板加工",
+      "category": "线切割",
+      "category_code": "EW",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 21,
+          "source_column": 1,
+          "value": "线切割",
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 21,
+          "source_column": 2,
+          "value": "EW",
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "EW2",
+        "模板加工",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 23,
+      "code": "EW3",
+      "description_raw": "精加工（导面/成型/割孔加工）",
+      "category": "线切割",
+      "category_code": "EW",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 21,
+          "source_column": 1,
+          "value": "线切割",
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 21,
+          "source_column": 2,
+          "value": "EW",
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "EW3",
+        "精加工（导面/成型/割孔加工）",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 24,
+      "code": "EW4",
+      "description_raw": "中丝精加工",
+      "category": "线切割",
+      "category_code": "EW",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 21,
+          "source_column": 1,
+          "value": "线切割",
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 21,
+          "source_column": 2,
+          "value": "EW",
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "EW4",
+        "中丝精加工",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 25,
+      "code": "CK1",
+      "description_raw": "Φ0.5以下小孔",
+      "category": "慢丝",
+      "category_code": "MS",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 25,
+          "source_column": 1,
+          "value": "慢丝",
+          "resolution": "original_cell"
+        },
+        {
+          "column": 2,
+          "source_row": 25,
+          "source_column": 2,
+          "value": "MS",
+          "resolution": "original_cell"
+        }
+      ],
+      "raw_values": [
+        "慢丝",
+        "MS",
+        "CK1",
+        "Φ0.5以下小孔",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 26,
+      "code": "CK2",
+      "description_raw": ">0.5的孔",
+      "category": "慢丝",
+      "category_code": "MS",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 25,
+          "source_column": 1,
+          "value": "慢丝",
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 25,
+          "source_column": 2,
+          "value": "MS",
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "CK2",
+        ">0.5的孔",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 27,
+      "code": "MS1",
+      "description_raw": "开粗供精加工",
+      "category": "慢丝",
+      "category_code": "MS",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 25,
+          "source_column": 1,
+          "value": "慢丝",
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 25,
+          "source_column": 2,
+          "value": "MS",
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "MS1",
+        "开粗供精加工",
+        " "
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 28,
+      "code": "MS2",
+      "description_raw": "精加工",
+      "category": "慢丝",
+      "category_code": "MS",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 25,
+          "source_column": 1,
+          "value": "慢丝",
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 25,
+          "source_column": 2,
+          "value": "MS",
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "MS2",
+        "精加工",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 29,
+      "code": "MS6",
+      "description_raw": "油割加工（R0.12以下MS6加工）",
+      "category": "慢丝",
+      "category_code": "MS",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 25,
+          "source_column": 1,
+          "value": "慢丝",
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 25,
+          "source_column": 2,
+          "value": "MS",
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "MS6",
+        "油割加工（R0.12以下MS6加工）",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 30,
+      "code": "MS7",
+      "description_raw": "油割加工（Φ0.07线加工）",
+      "category": "慢丝",
+      "category_code": "MS",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 25,
+          "source_column": 1,
+          "value": "慢丝",
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 25,
+          "source_column": 2,
+          "value": "MS",
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "MS7",
+        "油割加工（Φ0.07线加工）",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 31,
+      "code": "EDM1",
+      "description_raw": "简单加工",
+      "category": "放电",
+      "category_code": "EDM",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 31,
+          "source_column": 1,
+          "value": "放电",
+          "resolution": "original_cell"
+        },
+        {
+          "column": 2,
+          "source_row": 31,
+          "source_column": 2,
+          "value": "EDM",
+          "resolution": "original_cell"
+        }
+      ],
+      "raw_values": [
+        "放电",
+        "EDM",
+        "EDM1",
+        "简单加工",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 32,
+      "code": "EDM2",
+      "description_raw": "精加工（CNC电极成型加工）",
+      "category": "放电",
+      "category_code": "EDM",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 31,
+          "source_column": 1,
+          "value": "放电",
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 31,
+          "source_column": 2,
+          "value": "EDM",
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "EDM2",
+        "精加工（CNC电极成型加工）",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 33,
+      "code": "EDM4",
+      "description_raw": "螺牙加工（硬料）",
+      "category": "放电",
+      "category_code": "EDM",
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 31,
+          "source_column": 1,
+          "value": "放电",
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 31,
+          "source_column": 2,
+          "value": "EDM",
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "EDM4",
+        "螺牙加工（硬料）",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 34,
+      "code": "YJ",
+      "description_raw": "阳极（铝合金）",
+      "category": null,
+      "category_code": null,
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 34,
+          "source_column": 1,
+          "value": null,
+          "resolution": "original_cell"
+        },
+        {
+          "column": 2,
+          "source_row": 34,
+          "source_column": 1,
+          "value": null,
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "YJ",
+        "阳极（铝合金）",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 35,
+      "code": "DG",
+      "description_raw": "镀铬（S45C）",
+      "category": null,
+      "category_code": null,
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 34,
+          "source_column": 1,
+          "value": null,
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 34,
+          "source_column": 1,
+          "value": null,
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "DG",
+        "镀铬（S45C）",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 36,
+      "code": "HH",
+      "description_raw": "回火（仅限冲模模板）",
+      "category": null,
+      "category_code": null,
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 34,
+          "source_column": 1,
+          "value": null,
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 34,
+          "source_column": 1,
+          "value": null,
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "HH",
+        "回火（仅限冲模模板）",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 37,
+      "code": "PP",
+      "description_raw": "抛光",
+      "category": null,
+      "category_code": null,
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 34,
+          "source_column": 1,
+          "value": null,
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 34,
+          "source_column": 1,
+          "value": null,
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "PP",
+        "抛光",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 38,
+      "code": "JY",
+      "description_raw": "检验",
+      "category": null,
+      "category_code": null,
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 34,
+          "source_column": 1,
+          "value": null,
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 34,
+          "source_column": 1,
+          "value": null,
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "JY",
+        "检验",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 39,
+      "code": "DD",
+      "description_raw": "电镀",
+      "category": null,
+      "category_code": null,
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 34,
+          "source_column": 1,
+          "value": null,
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 34,
+          "source_column": 1,
+          "value": null,
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "DD",
+        "电镀",
+        null
+      ]
+    },
+    {
+      "source_file": "/home/gxl/code/cad-cost-estimation/data/raw/manufacturing/模具加工工艺分类.xlsx",
+      "sheet": "机加工(工艺分类)",
+      "row_number": 40,
+      "code": "RCL",
+      "description_raw": "热处理",
+      "category": null,
+      "category_code": null,
+      "category_evidence": [
+        {
+          "column": 1,
+          "source_row": 34,
+          "source_column": 1,
+          "value": null,
+          "resolution": "merged_cell_anchor"
+        },
+        {
+          "column": 2,
+          "source_row": 34,
+          "source_column": 1,
+          "value": null,
+          "resolution": "merged_cell_anchor"
+        }
+      ],
+      "raw_values": [
+        null,
+        null,
+        "RCL",
+        "热处理",
+        null
+      ]
+    }
+  ],
+  "entry_count": 37,
+  "duplicate_codes": {},
+  "missing_category_codes": [
+    "YJ",
+    "DG",
+    "HH",
+    "PP",
+    "JY",
+    "DD",
+    "RCL"
+  ]
+}

@@ -1,0 +1,53 @@
+2026-10-15 19:20:37,215 INFO cad_inventory.manufacturing.pipeline Registered 82 original files for integrity verification
+2026-10-15 19:20:37,363 ERROR cad_inventory.manufacturing.pipeline Manufacturing pipeline failed
+Traceback (most recent call last):
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/manufacturing/pipeline.py", line 97, in main
+    result=run()
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/manufacturing/pipeline.py", line 41, in run
+    records,sheets=extract_operations(workbook,dictionary);routes=build_routes(records)
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/manufacturing/processes.py", line 77, in extract_operations
+    'column_storage_types':{str(header):dict(Counter(row['cells'][i]['storage_type'] for row in sheet['rows'] if row['row_number']>header['row_number'])) for i,header in enumerate(headers)}})
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/manufacturing/processes.py", line 77, in <dictcomp>
+    'column_storage_types':{str(header):dict(Counter(row['cells'][i]['storage_type'] for row in sheet['rows'] if row['row_number']>header['row_number'])) for i,header in enumerate(headers)}})
+  File "/usr/lib/python3.10/collections/__init__.py", line 577, in __init__
+    self.update(iterable, **kwds)
+  File "/usr/lib/python3.10/collections/__init__.py", line 670, in update
+    _count_elements(self, iterable)
+  File "/home/gxl/code/cad-cost-estimation/src/cad_inventory/manufacturing/processes.py", line 77, in <genexpr>
+    'column_storage_types':{str(header):dict(Counter(row['cells'][i]['storage_type'] for row in sheet['rows'] if row['row_number']>header['row_number'])) for i,header in enumerate(headers)}})
+TypeError: string indices must be integers
+2026-10-15 19:20:41,816 INFO cad_inventory.manufacturing.pipeline Registered 82 original files for integrity verification
+2026-10-15 19:20:41,943 INFO cad_inventory.manufacturing.pipeline CMY1000A: 783 records, 179 primary IDs, 9 electrodes
+2026-10-15 19:20:41,951 INFO cad_inventory.manufacturing.pipeline SMX0100: 151 records, 18 primary IDs, 26 electrodes
+2026-10-15 19:20:41,951 INFO cad_inventory.manufacturing.pipeline Reading CAD drawing identities and checking duplicate exports
+2026-10-15 19:20:55,331 INFO cad_inventory.manufacturing.pipeline CMY1000A: strict CAD matches 171/179
+2026-10-15 19:20:55,331 INFO cad_inventory.manufacturing.pipeline SMX0100: strict CAD matches 17/18
+2026-10-15 19:20:55,889 INFO cad_inventory.manufacturing.pipeline Saved three reports and manufacturing structured outputs
+2026-10-15 19:22:34,092 INFO cad_inventory.manufacturing.pipeline Registered 82 original files for integrity verification
+2026-10-15 19:22:34,225 INFO cad_inventory.manufacturing.pipeline CMY1000A: 783 records, 179 primary IDs, 9 electrodes
+2026-10-15 19:22:34,236 INFO cad_inventory.manufacturing.pipeline SMX0100: 151 records, 18 primary IDs, 26 electrodes
+2026-10-15 19:22:34,236 INFO cad_inventory.manufacturing.pipeline Reading CAD drawing identities and checking duplicate exports
+2026-10-15 19:22:48,225 INFO cad_inventory.manufacturing.pipeline CMY1000A: strict CAD matches 171/179
+2026-10-15 19:22:48,225 INFO cad_inventory.manufacturing.pipeline SMX0100: strict CAD matches 17/18
+2026-10-15 19:22:48,631 INFO cad_inventory.manufacturing.pipeline Saved three reports and manufacturing structured outputs
+2026-10-15 19:24:00,390 INFO cad_inventory.manufacturing.pipeline Registered 82 original files for integrity verification
+2026-10-15 19:24:00,523 INFO cad_inventory.manufacturing.pipeline CMY1000A: 783 records, 179 primary IDs, 9 electrodes
+2026-10-15 19:24:00,532 INFO cad_inventory.manufacturing.pipeline SMX0100: 151 records, 18 primary IDs, 26 electrodes
+2026-10-15 19:24:00,532 INFO cad_inventory.manufacturing.pipeline Reading CAD drawing identities and checking duplicate exports
+2026-10-15 19:24:13,089 INFO cad_inventory.manufacturing.pipeline CMY1000A: strict CAD matches 171/179
+2026-10-15 19:24:13,090 INFO cad_inventory.manufacturing.pipeline SMX0100: strict CAD matches 17/18
+2026-10-15 19:24:13,478 INFO cad_inventory.manufacturing.pipeline Saved three reports and manufacturing structured outputs
+2026-10-15 19:25:36,089 INFO cad_inventory.manufacturing.pipeline Registered 82 original files for integrity verification
+2026-10-15 19:25:36,234 INFO cad_inventory.manufacturing.pipeline CMY1000A: 783 records, 179 primary IDs, 9 electrodes
+2026-10-15 19:25:36,244 INFO cad_inventory.manufacturing.pipeline SMX0100: 151 records, 18 primary IDs, 26 electrodes
+2026-10-15 19:25:36,245 INFO cad_inventory.manufacturing.pipeline Reading CAD drawing identities and checking duplicate exports
+2026-10-15 19:25:49,665 INFO cad_inventory.manufacturing.pipeline CMY1000A: strict CAD matches 171/179
+2026-10-15 19:25:49,665 INFO cad_inventory.manufacturing.pipeline SMX0100: strict CAD matches 17/18
+2026-10-15 19:25:50,085 INFO cad_inventory.manufacturing.pipeline Saved three reports and manufacturing structured outputs
+2026-10-15 19:26:47,028 INFO cad_inventory.manufacturing.pipeline Registered 82 original files for integrity verification
+2026-10-15 19:26:47,167 INFO cad_inventory.manufacturing.pipeline CMY1000A: 783 records, 179 primary IDs, 9 electrodes
+2026-10-15 19:26:47,174 INFO cad_inventory.manufacturing.pipeline SMX0100: 151 records, 18 primary IDs, 26 electrodes
+2026-10-15 19:26:47,174 INFO cad_inventory.manufacturing.pipeline Reading CAD drawing identities and checking duplicate exports
+2026-10-15 19:26:59,675 INFO cad_inventory.manufacturing.pipeline CMY1000A: strict CAD matches 171/179
+2026-10-15 19:26:59,676 INFO cad_inventory.manufacturing.pipeline SMX0100: strict CAD matches 17/18
+2026-10-15 19:27:00,121 INFO cad_inventory.manufacturing.pipeline Saved three reports and manufacturing structured outputs
