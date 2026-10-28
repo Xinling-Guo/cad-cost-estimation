@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-15",
+  "source_sha256": {
+    "doc/机加图档工艺工时说明.pptx": "19ccadd2d998dc88438cd78cf18665ae7db29eb5afa43379b3dfea6ba2ef2ab0",
+    "doc/project_understanding.md": "6ae2439b50dc5d4e862858a7d38025f5ae03b389123bda03263c0fc05e475e96",
+    "doc/customer_requirement.md": "9f7314447848a4c9eda7818d55b9fb8a6d7093fe5f02435fa7c8f2356901495d",
+    "doc/模具零部件智能成本评估_甲方沟通技术方案.docx": "b6887633d45ae7c9e65b7f11e82554f5e17564afbc3fcd3c9fcbf3f2510ce3a6",
+    "doc/cad_pipeline_design.md": "b96a6775cdbf6d1f77c74130948f4bc5234688b6a2edc279c74d12fa0335b45f",
+    "doc/模具零部件加工成本评估需求说明.pdf": "0b4a997478af99ebd07352425b24033a7c490b45d047abe89069cb868650fb59",
+    "doc/模具零部件智能成本评估_技术可行性与建设方案_内部完整版.docx": "a968edc85881f604ca011a9a1dd7925f45112a4d823027d8ad30b4fd46623f3a",
+    "reports/dxf_deep_analysis.md": "44b6593dfe307198539c1027092ffa72608f37482636ef4bffc3e575f2f91b5d",
+    "reports/manufacturing_data_analysis.md": "0a141f71d2ab01987c605b3feb371dba91f45bb20f3e653f3b6ae9b8fcc560db",
+    "reports/cad_process_matching_report.md": "acd37886f754211a46ac1688abf6ba5fa506e90fb20b490cb15f798ecb4fbb35",
+    "reports/agent_feasibility_update.md": "17ed61d64d0acf0dd7fa0994593837f3e63182756ae2a1c776b952cedea4b7fa"
+  },
+  "purpose": "read-only review; original Word files unchanged",
+  "verification": {
+    "all_review_sources_unchanged": true,
+    "feature_count": 18,
+    "report_count": 6,
+    "workload_totals_verified": true,
+    "raw_data_modified": false,
+    "word_files_modified": false,
+    "application_code_modified": false,
+    "earlier_original_files_reverified": 82
+  }
+}
